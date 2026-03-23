@@ -1,0 +1,115 @@
+TITLE: Assistant Governor's Keynote Address at the InsurTech Leaders Summit
+DATE: 26 May 2022
+URL: https://www.bnm.gov.my/-/ag-suhaimi-spch-insurtech-2022
+--------------------------------------------------
+
+
+
+"Elevating the insurance value proposition at the intersection of IoT and ecosystems"
+
+Introduction
+
+Distinguished guests, ladies and gentlemen. A very good morning.
+
+I would like to express my thanks to the organisers of the InsurTech Leaders Summit for inviting me to deliver the keynote address today.
+
+The theme of this year’s conference is highly relevant – “Elevating the insurance value proposition at the intersection of IoT and ecosystems”. Many aspects of our lives are now done online and digitally. Consumers today have higher expectations for round-the-clock services, seamless lifestyle interactions and personalised one-stop-shop experiences. Digital ecosystems enable this – for example, partnerships in wider cross-industry ecosystems give providers the agility and reach to thrive in an era where customer-centric value proposition is key.
+
+By 2025, it is estimated that 75% of Asia-Pacific business leaders will leverage on digital platforms and ecosystem capabilities to adapt their value chains to new markets[1]. In Malaysia, similar trends are also unfolding. For example, 67% of consumers expressed interest in using online channels to purchase insurance in the future[2].
+
+The potential of this digitalisation era has been compared to the era of enterprises in the post WWII period. During that time, the world saw a flourishing of technology and innovation. However, a key challenge observed was that workers became siloed in their various specialties, thus impeding collective innovation goals.
+
+Michael Tushman, a Harvard Business School professor known for his work on organisation design, was an early researcher into efforts to overcome this challenge. From there, he coined the term ‘boundary spanners’[3]– individual connectors with the ability to bridge information from different verticals of an organisation to unlock innovation value. Since 1958, the boundary spanning role has been popular throughout academic research into innovation systems.
+
+With hindsight, we know that period ended up as the golden age of capitalism, marked by greater organisational efficiency, specialised production and trade expansion.
+
+It is intriguing to find insurance at a similar crossroad today. Consumer activity is becoming entrenched in digital ecosystems. Critical sources of information which were previously unconnected are becoming more connected. This has the potential to not only deepen protection, but also mitigate long-held issues in insurance like moral hazard and adverse selection.
+
+While the pandemic presented numerous challenges, it underscored the value of financial security in times of stress. This has generated greater consumer and business appreciation for protection solutions. Like the past, there are immense opportunities emerging across ecosystem verticals, merely awaiting a connecting agent to unlock them.
+
+I believe the insurance and takaful industry is uniquely positioned to act as boundary spanners that can pave the direction for innovation, break down traditional barriers, and influence positive consumer behaviours. We are already observing this in the areas of life and medical policies, where partnerships with food, fitness and medical providers are motivating healthier lifestyle choices by rewarding consumers with lower premiums. Today, I wish to focus my remarks on three areas where further innovation and the boundary spanning role of the industry are critical:
+
+One, to narrow the gap on insurance coverage and protection;
+
+Two, to redraw the frontiers for greater efficiency; and
+
+Three, to expand the horizons for the future of insurance beyond protection to prevention.
+
+Narrowing the gap on insurance coverage and protection
+
+In Malaysia, protection gaps remain among at-risk segments who may not have sufficient financial buffers in case of unexpected risk events. There is ample scope to provide protection in the form of life insurance and family takaful cover to working adults in the low-income segment, as well as business interruption cover beyond fire or property damage to SMEs. This is also partly due to the way traditional insurance models are structured which are usually less suitable or beyond the range of affordability for these groups.
+
+This is where digital innovations can play a critical role. Digital ecosystems and IoT leverage on richer data and automation that can significantly help to deepen accessibility to insurance. This opens the pathway to viability for more specialised, needs-based covers, particularly to serve at-risk segments.
+
+This vision is not just an aspiration, but a clear reality. We are already seeing, for example, an expansion of partnership models with non-traditional intermediaries such as e-commerce and e-hailing platforms, which has enabled the offering of ‘sachet insurance’ or bite-sized insurance covers to consumers at ‘point-of-sale’. I am intrigued at how consumer wearables with glucose monitoring technology are being used as data points to overcome traditional pricing barriers for specialised medical cover to diabetic patients. There can be no mistake – innovation is occurring across multiple dimensions, spanning beyond the product level towards the whole business operations, even birthing entirely new digital-only institutions.
+
+At our end, Bank Negara Malaysia is doing our part to ensure a progressive and dynamic market – one that is welcoming of these novel business models and new entrants. The Digital Insurance and Takaful Operator Framework Discussion Paper published earlier this year emphasises inclusion alongside competition and efficiency as value propositions that we look for in assessing prospective applicants. As we work towards issuing the Exposure Draft by the midyear point, I encourage applicants who can demonstrate strong capabilities in these three areas and meaningfully close critical protection gaps in Malaysia to come forward to be part of the journey.
+
+Beyond new entrants, we also envision data sharing platforms to be a key enabler in making critical protection solutions affordable, through better cost control management and price transparency. Highlighted in our recently launched Financial Sector Blueprint, the cost of private medical care in Malaysia is among the highest in Southeast Asia. As such, an important priority is the development of a centralised data exchange platform by the industry in collaboration with key stakeholders in the medical ecosystem. Such a platform will not only facilitate the standardisation of medical claims data, but enable the industry to transmit and analyse data in a more systematic, efficient way over the longer term.
+
+On a broader scale, we are committed to developing the building blocks necessary for an open data ecosystem in the next five years. The first step we are currently taking together with the industry is to identify high-impact use cases. Given the diversity of innovators in the room today, I welcome interest by the fintech and insurtech sector to approach us directly or via your industry associations to propose impactful use cases that will act as a springboard for the development of common data sharing standards.
+
+Redrawing the frontiers for greater efficiency
+
+The second critical area is on how innovation has the potential of redrawing the efficiency frontier. Sean Gerety, a user experience or UX expert, shared this insight on innovation: “The technology you use impresses no one. The experience you create with it is everything”. The protection journey moving forward goes beyond just ‘quote to claim’. It must anticipate and fulfil multiple needs of consumers in a more efficient way.
+
+While we do see efforts made by existing players to transform manual claims processes with technology, there is room for improvement in Malaysia. The process of buying and claiming insurance remains cumbersome for many. Digital and IoT ecosystems can be game changers, but these applications must be designed with a consumer-specific focus.
+
+As a start, there is a need to reinvent the claims journey by addressing prevailing pain points arising from manual processes and lengthy investigation timelines, especially for motor claims. The Bank will continue to pave the way for insurers and takaful operators to digitalise the claims process. However, we also expect and support the industry’s collective efforts to improve existing infrastructures for a more integrated, transparent, and seamless journey as a precondition for full liberalisation of motor tariffs. This includes rolling out a digital roadside assistance solution that will serve as a catalyst for further modernisation of the claims journey.
+
+Beyond reinvention, we should also explore opportunities to connect digital ecosystems with novel product designs to increase claims efficiency. An inspiring example is how we can automate the payout journey with wider applications of parametric insurance. In contrast to traditional insurance or takaful, parametric contracts give greater certainty and allow money to reach policyholders faster through near-automatic payment. According to a U.K. study by the Department of International Development, payments from a parametric insurance policy can be
+
+3.5 times more effective in disaster response than delayed payments from aid[4]. For victims, this speed can have a decisive impact on livelihoods.
+
+While parametric insurance plays a predominant role for natural disaster risks, I believe there is potential to apply this concept to more traditional protection needs in Malaysia. Pre-determined trigger events do not only have to be weather–related risks[5]. Travel, power outage, cyber threat and business interruption risks caused by supply chains may also benefit from pre-determined payouts. There are thus ample opportunities for the industry to test or pilot such innovative offerings.
+
+On our end, the Bank is committed to provide a more enabling environment for the industry to explore, test and introduce innovations. For areas that may require regulatory flexibility, we plan to enhance the Regulatory Sandbox with pathways to accelerate time-to-live testing by simplifying the gatekeeping process for institutions with strong risk management capabilities. We expect to announce more details on this later in the year and hope to see greater participation by the industry to offer innovative protection solutions through the enhanced Regulatory Sandbox.
+
+Expanding the horizons for the future of insurance – augmenting protection with prevention
+
+Lastly, it is also imperative to augment the future of insurance to include risk prevention. Insurers and takaful operators have always played this role. For years, the industry has provided consumers with loss prevention advice for commercial lines. Ways and demands on risk prevention, however, are evolving. We expect to see a collective shift in the role of the industry from loss reimbursement to loss control and prevention in the upcoming years. The future of augmenting protection with prevention can be distilled through three pillars:
+
+First, by creating awareness of current risk levels
+
+Second, by suggesting a change in behaviour
+
+And third, by offering incentives for changes in behaviour
+
+The first two pillars are closely linked and is typically in the form of real-time risk mitigation as well as early warning systems. For instance, prevention triggers such as missed safety task notifications and water leakage alerts to activate emergency repair services can help prevent accidents. Telematics can also connect insurers and farmers to data from weather systems for potential safety warnings.
+
+However, raising awareness of risky behaviour and how to address them are not enough. It is also fundamental to encourage people to instigate real and sustainable changes in behaviour. Jonas Salk, one of the first successful medical researchers to develop polio vaccines once said that “the reward for work well done is the opportunity to do more”. Insurers and takaful operators can leverage consumers’ perception of the value of rewards by nudging them to adopt safer and healthier behaviours. Elements of gamification and behavioural economics can also be integrated – for example, a driving score leader board can motivate drivers to collect higher scores by adopting safer driving behaviours.
+
+We recognise that many of these successful models require tie ups and expertise beyond traditional business lines. To cater to these new digital realities, the Bank has been proactive in ensuring our regulations are adapted regularly. Revisions to our outsourcing and risk management in technology policies in recent years encourage various forms of digital partnerships to be explored, with a focus on understanding the nature of risks, having in place effective controls and being facilitative of the innovation. We continue to review the relevance and applicability of these policies to ensure they remain fit for purpose.
+
+For the industry, it is important for traditional players to continuously explore partnerships with various institutions such as startups, corporates and behavioural research centres, to create innovative products that incentivise prevention, healthier living and greater quality of life. At the same time, traditional intermediaries will also have to consider how the evolving nature of partnerships would affect their business practices and pivot accordingly to remain competitive.
+
+Closing
+
+So, let me now conclude. Much like how boundary spanning individuals became a focal point for innovation shaping the post-WWII era, the insurance and takaful industry is well positioned and empowered to lead today’s innovation forward.
+
+In fact, the impact of boundary spanning individuals expands beyond just innovation benefits. An entry in the Stanford Science Social Innovation Review last year highlighted how boundary spanning individuals are also powerful change makers in engendering trust and promoting equity, particularly among underserved communities, given the expertise and understanding of the communities they serve.
+
+In the same way, I believe that all here today will carry the role of innovators not just with commercial interest in mind but also in pursuit to benefit the communities we serve. This calls for a stronger role by industry leaders to collectively identify challenges, propose solutions and invest in ecosystem enablers. With this, I also hope to see more ‘by the industry, for the industry’ efforts to shape the development landscape in Malaysia that you would like to operate within.
+
+The Bank has laid out the future vision for the insurance and takaful sector under the recent Financial Sector Blueprint. The challenge now is for industry leaders and collaborators to forge on from here. We look forward to work with you to transform these aspirations into reality.
+
+Thank you and I wish you a successful conference ahead.
+
+
+
+
+
+Footnotes:
+
+
+
+[1]IDC website, Nov 2020, “IDC Predicts 65% of APAC GDP will be Digitalized Reaching US$ 1.2 Trillion in Spending by 2022”
+
+[2]Digital News Asia, Feb 2021, “Swiss Re study: Increase in digital platforms, Covid-enforced mindset is changing Malaysia’s insurance landscape”
+
+[3]In social science and organisational psychology, boundary spanning is a term to describe individuals within an innovation system who adopt the role of linking internal networks with external sources of information. The term is now widely used to describe any situation where an individual crosses the boundaries of a network to enable knowledge exchange, translate language, and share values among various networks.
+
+[4]Centre for Insurance and Policy and Research website, Feb 2022, “Parametric Disaster Insurance”
+
+[5]Hyperon, Apr 2022, “How Parametric Insurance is Reinventing the Industry”.
+

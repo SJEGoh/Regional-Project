@@ -1,0 +1,55 @@
+TITLE: Opening Remarks by OECD Director Medcraft at the BNM-OECD Conference on Financial Education and Financial Consumer Protection
+DATE: 11 Dec 2019
+URL: https://www.bnm.gov.my/-/opening-remarks-by-oecd-director-medcraft-at-the-bnm-oecd-conference-on-financial-education-and-financial-consumer-protection
+--------------------------------------------------
+
+
+
+I am delighted to be able to open today’s Conference on Financial Education and Financial Consumer Protection in Asia-Pacific – albeit only virtually.
+
+Indeed, perhaps virtual attendance is entirely appropriate, given the topic of the conference: digitalisation.
+
+I’d like to use this video message to set the scene for today’s discussions, by:1. Illustrating some of the policy issues digitalisation is presenting for financial consumer protection and education, drawing on recent OECD research on blockchain-based financial assets.2. Detailing some of the lessons for policymakers and regulators emerging from this research.
+
+First, to illustrate the issues, I’ll touch briefly on the findings from our new consumer research on cryptoassets in Asia, which will be discussed in more detail later today – this covers what you could call the ‘demand side’ of cryptoasset investment.
+
+What really struck me from this survey was the penetration of the technology in the region:
+
+The reasons for buying these assets were particularly illuminating – the most common response given was ‘to make money quickly’.
+
+People see cryptoassets as a ticket to financial advancement and security. And some of them are taking big risks to get there:
+
+For those of us who are concerned with the protection and education of financial consumers, these are familiar warning signs, especially when coupled with low levels of understanding among many consumers, which the research also found.
+
+Earlier this year, we also produced a report on Initial Coin Offerings for SMEs – what you call the ‘supply side’ of cryptoasset investment.
+
+We mapped the full process of cryptoasset issuance through an ICO, and found that each step of the process presents a range of legal and market integrity issues.
+
+Many of these issues were not actually new to the existing regulatory regimes in traditional financial markets – but were problems arose due to a lack of clarity as to what if any rules applied to ICO activities.
+
+As a result of the regulatory vacuum, the early days of ICO issuance presented risks to investors and businesses alike. Many ICOs:
+
+When we consider the level of cryptoasset investment I mentioned earlier – and the risks people took to participate – ICO markets do present cause for concern.
+
+To be clear, the OECD sees benefits to ICOs in terms of small business funding. But proper oversight and regulatory certainty are preconditions for eventual mainstream use.
+
+This brings me to me second point: the high-level lessons for regulators that are emerging from this work.
+
+I see six in particular:
+
+1. Blockchain-based innovations such as cryptoassets do not change market fundamentals and regulators should focus policy interventions on achieving their mandates. We are concerned foremost with efficient and orderly markets – in finance that means stability, business conduct, consumer protection and market efficiency.
+
+2. We don’t need to reinvent the wheel with each new technology – we have rules in place that cover the fundamentals, what we often see is that the issues raised by new fintech products or business models like blockchain are often already addressed elsewhere. We should focus on the economic function of a product, not the technology behind it. That said, the decentralised nature of blockchain does present specific and novel issues for financial regulators, which may call for new approaches.
+
+3. Regulatory certainty is important – but is a fine balance. If there is a need for new rules or guidance, these should be principles-based. We need to take a long-term view – fintech and blockchain will almost certainly look very different in ten, twenty and thirty years than it does today, so approaches need to be flexible and grow with the technology. And innovation could be revealing areas of our regulatory frameworks which are not currently technology neutral or needlessly constrain innovation.
+
+4. Regulators need to build their capacity and understanding of financial technologies and cryptoassets. This will allow them to respond appropriately, rather than rushing in with market interventions which may not be necessary and may have unintended consequences.
+
+5. Cooperation between jurisdictions is important because:a) Regulators have the opportunity to learn from one another – and we have an opportunity to do that here, today. It is really critical that public institutions get together to compare notes and experiences – which is why events like today are so important.b) Common regulatory approaches can help avoid regulatory fragmentation and arbitrage – certainly important within the region, and ideally at a global level. This is particularly important given the global nature of cryptoassets. And finally, and most relevantly for this conference:
+
+6. We need to inform, empower and protect consumers – we need more data to understand consumers’ attitudes and better tailor communications for them.At the same time, regulators should monitor marketing techniques, assess emerging issues and apply appropriate financial consumer protection frameworks.And consumers need to be alerted to the risks they face. In this regard, the G20/OECD High Level Principles on Financial Consumer Protection and the G20/OECD Policy Guidance on Digitalisation and Financial Literacy provide useful foundations for building tailored approaches.
+
+To conclude – I would like to sincerely thank:Our hosts, Bank Negara Malaysia for working so closely with us to ensure the success of this conference.The Government of Japan for supporting the OECD’s contribution.All of you – the participants, speakers and moderators – for your enthusiasm and engagement in this important topic.
+
+I wish you an excellent conference.Read more about Cryptoassets in Asia, a publication by OECD athttp://www.oecd.org/finance/financial-education/2019-cryptoassets-in-asia.pdf
+

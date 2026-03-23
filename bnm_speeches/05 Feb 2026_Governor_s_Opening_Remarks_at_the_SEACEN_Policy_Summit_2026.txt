@@ -1,0 +1,125 @@
+TITLE: Governor's Opening Remarks at the SEACEN Policy Summit 2026
+DATE: 05 Feb 2026
+URL: https://www.bnm.gov.my/-/g-spch-seacen2026
+--------------------------------------------------
+
+
+
+Opening Remarks by Governor Abdul Rasheed Ghaffourat the SEACEN Policy SummitSasana Kijang | 5 February 2026
+
+'The Future of International Monetary System and The Role of Asia'
+
+
+
+We are very privileged to have with us today two distinguished former Governors, Governor Zeti and Governor Subbarao. Both have played an instrumental role in shaping and strengthening the International Monetary System. In many ways, the work we continue today builds upon the foundations they laid.
+
+Welcome to Kuala Lumpur. It is an honour for Bank Negara Malaysia to co-host this SEACEN Policy Summit. This gathering marks the return of this flagship Summit – not only in presence, but in purpose. It brings together policymakers across Asia to exchange perspectives on one of the most consequential questions of our time – the future of the international monetary system, and Asia’s role within it.
+
+While the phrase may appear technical or distant, its implications are anything but abstract. It influences the cost of funding trade, the ease of obtaining foreign currency liquidity when markets turn, and the policy space available when global conditions shift, including moments of stress. These are the realities felt across all our economies.
+
+Our region has faced defining tests before. The Asian Financial Crisis, for instance – reshaped institutions, households and, importantly, our understanding of resilience. We responded in the way resilient systems respond - not with slogans, but with hard reforms. We strengthened capital and liquidity. We built foreign exchange reserves. We invested in supervision. And we built regional arrangements – because we learnt, that – resilience is not only national – it is collective.
+
+Since then, Asia has risen with conviction. Our economies are now more integrated, more sophisticated and more central to global trade and production. Asia is also where much of global growth is generated today.
+
+Yet, we meet today at another moment of transition. And this time, it is not defined by one shock, but several forces unfolding simultaneously.
+
+So, the question for us is not whether the international monetary system will evolve. It will. The real question is whether Asia will take its place as a shaper of what comes next, or be a passive taker of what others design.
+
+Let me outline the forces at work shaping the international monetary system– how they began, how they are developing, and what they mean for the next decade.
+
+For decades, the international monetary system has been anchored predominantly around a single currency – the US dollar. Internationally, we priced goods in it. We borrowed in it. We hedged in it. We measured reserve adequacy through it. Over time, this created powerful habits – and powerful network effects. The IMF’s recent monitoring work on the international monetary system describes how such 'complementarities' and 'network externalities' reinforce the incumbent currency’s centrality, making the system durable and slow to shift[1].
+
+But for many economies, including in Asia, that durability came with a cost: vulnerability to foreign-currency liquidity condition; and sensitivity to risk-off episodes – when dollar funding tightens.
+
+The Asian Financial Crisis was one such episode. When external funding conditions turned, currency mismatches and sudden stops – exposed weaknesses. It was a stark reminder that when the main channel constricts, countries without alternative channels can find themselves short of room; short of time; and short of options.
+
+Even today, many operational aspects of reserves and treasury functions still assume the centrality of the dollar, because the system was built that way. It is efficient – until it is stressed.
+
+And while we are still living with this structural legacy, we must also recognise the forces shaping the system now.
+
+Today, we see three dynamics reshaping the international monetary system.
+
+First, while the US dollar is still dominant in the international monetary system, its position is slowly being tested.
+
+It remains the world’s anchor currency, but pressure points are starting to show.
+
+During periods of stress, dollar liquidity can tighten quickly. In fact, we have seen episodes of dollar funding stress coincide with periods of major global shocks. For emerging and open economies, we feel these strains immediately, especially when tapping into dollar liquidity lines remain exclusive to only a selected few countries.
+
+At the same time, there is a slow but persistent diversification away from the US dollar. The data from the IMF still shows the US dollar at the centre, but with a declining share of global FX reserves from 62% in 2012, to 57% in 2025, while Euro and other currencies gradually holding an increasing collective share.[2]
+
+This is by no means a wholesale move away from the dollar but a gradual rebalancing. Part of it is driven by risk management, where reserve managers do not want to be overly reliant on any single currency. But it is also about building resilience through diversification, especially in a risk landscape where geopolitics and policy uncertainty matter more than ever.
+
+The second dynamic is that geoeconomic fragmentation and regionalisation are becoming more pronounced.
+
+Supply chains, trade links and financial channels are being reorganised into regional blocs. Risk today, is not only about price and credit - it is also about access; continuity; and ability to maintain payments and liquidity under stress.
+
+Asia is responding – and it is responding on multiple fronts: through trade and investment; strengthening regional safety nets; building payment connectivity; developing local-currency frameworks; and improving surveillance. The direction is clear: when the main channel tightens, a region that has alternative channels can keep economic activity moving.
+
+The third dynamic is, digitalisation and advances in technology, which are presenting us with both opportunities and disruption.
+
+AI, tokenisation, CBDCs and USD‑backed stablecoins are no longer fringe topics. They are reshaping how value moves; how liquidity flows; and where regulatory perimeters sit.
+
+The IMF’s work on the international monetary system is explicit: while cross border CBDC use remains largely experimental, the international use of crypto assets, particularly USD backed stablecoins, has been increasing. The paper further suggests that if widely adopted, stablecoins can introduce run risks; contribute to currency substitution; and fragment payment systems – unless interoperability and supervision keep pace.
+
+The BIS reminds us why central banks have to be clear-eyed here: in any next generation system, trust in money and settlement at par remain non-negotiable. Technology does not remove the need for integrity. It raises the stakes for it[3].
+
+If these are the forces shaping the system today, what will define the next five to ten years? I would suggest three priorities:
+
+First: anorderly diversification, not a disorderly break.The credibility of central banking is built on stability. So is the credibility of the international monetary system. The aim is not to replace one concentration with another, or to create a system of competing payment blocs. The aim is to reduce concentration risk in a way that is gradual, well-managed, and anchored in market development and sound macroeconomic frameworks. For Malaysia, the diversification we have undertaken can be seen, among others, with deepened local-currency settlements with Thailand from RM1.9 billion or 6.4% of our bilateral trade settlements in 2009 to RM11.7 billion (18.7%) in 2024; with Indonesia – from RM1.2 billion (4.5%) in 2009 to RM8.8 billion (11.9%) in 2024; and China – from RM1 billion (1.7%) in 2011 to RM73.9 billion (28.4%) in 2024.
+
+Second priority: having a stronger regional financial architecture. The case for regional resilience has been reinforced, not as ideology but as risk management. In 2025, ASEAN+3 finance leaders not only agreed to enhance the CMIM by establishing the rapid financing facility for shocks such as pandemics and natural disasters; – but they have also agreed to commence work to transition the CMIM to a paid-in-capital model. We have also advanced payment connectivity across ASEAN member states from 18 to 28 cross-border payment linkages in 2025, with the volume of cross-border QR and P2P transactions seeing an increase of 190% and 41% respectively in 2025, compared to the first half of 2024.
+
+Third: Interoperability and a data driven international monetary system.Diversification strengthens resilience only if our systems remain connected. Without interoperability, it risks deepening fragmentation instead of reducing it. Our priority, therefore, must be to ensure that payment systems, data standards, reporting frameworks and policy tools continue to 'speak' to one another across borders. By bringing greater harmonisation across countries and equipping policymakers with timely, reliable insights for informed decisions – we can act with foresight rather than hindsight.
+
+The transition is already underway. The question is whether we design it, or let it design us – this is our moment – and the answer lies with all of us here.
+
+Ladies and Gentlemen,
+
+Let me now turn to why these forces matter particularly for Asia.
+
+First, Asia remains exposed to 'weather set elsewhere'.
+
+In a world of powerful global financial cycles – spillovers from the policies and financial conditions of major economies can transmit rapidly into our exchange rates; capital flows and domestic financial conditions adjust. These altogether – narrows policy space and constrains how finely we can calibrate for domestic needs.
+
+The AFC taught us the cost of mismatches, while the GFC and pandemic years reminded us of 'dollar droughts'. Asia has learnt to manage this reality with stronger frameworks, macroprudential tools and buffers. But the direction of travel is clear – external shocks propagate faster, and policy trade-offs become sharper.
+
+Second, fragmentation raises the premium on regional buffers and regional plumbing.
+
+When supply chains are reorganised and geopolitical uncertainty rises, resilience depends on whether trade and finance can keep moving even under stress.
+
+This is why stronger regional safety nets, surveillance capacity, interoperable payment systems and local‑currency ecosystems are not just 'nice-to haves'. They help cushion shocks collectively and ensure that economic activity can continue even when external conditions become more challenging.
+
+This is the rationale of CMIM and AMRO; behind the growth of local currency bond markets from Kuala Lumpur to Bangkok and Jakarta; behind ASEAN’s fast‑payment and QR linkages. Our task now is to ensure that these channels operate efficiently and serve the region as a whole.
+
+Thirdly, technology requires a new vigilance.
+
+As new rails emerge, risks do not disappear – in fact, they migrate. Stablecoins and tokenised assets can increase the speed of runs, they can complicate capital flow measures and they can fragment payments – unless interoperability is built in[4].
+
+We cannot meet these challenges alone as our economies grow 'ever more connected'. So our task here is clear: to capture efficiency while containing vulnerabilities; with stronger cross border data cooperation, clearer regulatory perimeters and practical interoperability. In short, to adapt to the future international monetary system – Asia must move faster, be more coordinated and be more technologically prepared than ever.
+
+All of this brings me to what I hope we will examine candidly in the discussions ahead. I suggest that we engage these three questions:
+
+First, how do we bring orderly adjustment to Asia’s reliance on the US dollar? What degree of diversification is feasible, over what time horizon and with what guardrails to avoid instability?
+
+Second, what options and constraints should guide broader international monetary system reform? How can we be more inclusive and reflective of Asia’s economic weight without undermining global stability?
+
+Finally, how should the international monetary system evolve in a technology‑driven world? What guardrails are needed for AI, tokenised assets, stablecoins and CBDCs so that innovation strengthens trust rather than eroding it?
+
+These are not merely academic questions. They are design choices that will determine the structure and resilience of the international monetary system.
+
+Ladies and Gentlemen,
+
+Our purpose today is clear: to sharpen the questions that matter, so that together, we can shape a more resilient and inclusive international monetary system for the years ahead.
+
+Thank you, and I wish you a productive Summit.
+
+
+
+[1]https://www.imf.org/-/media/files/publications/esr/2025/english/ch2.pdf
+
+[2]Source: IMF Currency Composition of Official Foreign Exchange Reserves (COFER).
+
+[3]https://www.bis.org/publ/arpdf/ar2025e3.pdf
+
+[4]https://www.imf.org/-/media/files/publications/dp/2025/english/usea.pdf
+

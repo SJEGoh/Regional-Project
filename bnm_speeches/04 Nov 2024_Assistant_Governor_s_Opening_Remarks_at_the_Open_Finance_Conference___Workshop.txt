@@ -1,0 +1,49 @@
+TITLE: Assistant Governor's Opening Remarks at the Open Finance Conference & Workshop
+DATE: 04 Nov 2024
+URL: https://www.bnm.gov.my/-/agsa-spch-paynetofc
+--------------------------------------------------
+
+
+
+Opening Remarks by Assistant Governor Suhaimi Aliat the Open Finance Conference & WorkshopSasana Kijang | 29 October 2024
+
+It is a pleasure to be here today at the Open Finance Conference and Workshop.
+
+Today’s event is an important milestone in our Open Finance journey, as we seek to turn into reality the vision and aspiration we have to advance the development of an open data ecosystem for the financial sector as set out in the Financial Sector Blueprint 2022-2026.
+
+Open Finance, and more broadly, Open Data, is an important priority for us given the realities of our operating environment and the world we live in today. As more transactions move to the digital sphere, so does data. With this, there is growing recognition of the criticality of key infrastructures that store, share or synthesise these data which are the foundation for realising a digital economy. Open Finance can help support this by giving customers the right to exercise control over their personal data and establishing a trusted, secure and structured environment to do so.
+
+The Open Finance Conference and Workshop today is also timely following recent passage of the Personal Data Protection (Amendment) Bill 2024 in Parliament. The PDPA Amendment Act introduces, among others, the right to data portability.
+
+Both customers and the financial sector stand to benefit from Open Finance. By providing the tools for customers to exercise control over their personal data through a customer-permissioned, trusted, secure and structured environment, we believe that this can in turn lead to new product possibilities and solutions. These include data-driven innovations that promote greater financial inclusion and empower consumers to make better-informed decisions about their finances.
+
+This is a vast opportunity for financial institutions and other players, such as fintech companies, to serve. Indeed, we believe that Open Finance will allow the industry to stay ahead in an increasingly competitive and fast-moving world in meeting the expectations of consumers for more transparent and innovative solutions that fill their needs.
+
+With this in mind, Bank Negara Malaysia is encouraged that PayNet has stepped up to drive the development and implementation of the infrastructures and common technical standards for Open Finance. Bank Negara Malaysia will also work closely with PayNet and the industry in delivering the intended vision for Open Finance by putting in place an enabling regulatory environment that will support the financial sector’s state of readiness for Open Finance.
+
+Making Open Finance a reality and success in Malaysia will also require the strong commitment and support of others, be it financial institutions, e-wallet providers, fintech players, among others.
+
+Indeed, we will need a whole-of-system approach. Each of us here has an integral role in shaping the future of Open Finance and ensuring that the ecosystem flourishes and achieves its intended outcomes.
+
+Today’s Conference and Workshop will be an important step to align our vision, including to work out what needs to be done going forward to realise the Open Finance vision. I imagine that there will be the sharing of diverse and enriching perspectives, including of the technical and commercial challenges that we will need to navigate and overcome.
+
+I am confident that the industry will constructively and pragmatically work through these challenges so as to arrive at the best outcome possible in making Open Finance a reality. Ultimately, I hope that the industry will view Open Finance not as threat, but rather as an opportunity.
+
+Allow me to share some of our thoughts as to what is needed to make Open Finance a success.
+
+First, it will be critical that we build and maintain trust and confidence in data sharing. Even as the design of the Open Finance platform is being worked out, it is important to ensure that users feel safe and secure in sharing data through the platform. After all, we are talking about customer data here, which many will view as being sensitive and private, and hence customers expect that all parties in the chain handle it delicately, with care. Data sharing arrangements must also not become gateways for scams, data leaks or other cybersecurity threats.
+
+Second, the platform or protocols should be built in a way that is flexible, scalable and interoperable. This means developing a technology architecture that not only facilitates seamless integration across various sectors today, but is also flexible enough to adapt to future innovations and use cases. This adaptability will be vital as we work towards building an interconnected data sharing landscape that cut across multiple industries.  We believe that Open Finance can be a stepping-stone to advance development of common standards for data sharing not just within the financial sector, but also beyond, such as with the public sector and players across various sectors. Flexibility, scalability and interoperability will also be key to futureproofing the platform to enable integration with AI and other data-driven innovations.
+
+Third, we must strive towards cultivating a thriving Open Finance and Open Data ecosystem. One where we have many Open Finance participants – be it financial services providers or third-party providers, which include app developers – compete and collaborate to create ingenuous products and services which talk to and share data with each other – of course, with the customer’s consent. We believe that the richer pooling of customer data will power data-driven innovations, which include products and services that better serve the needs of customers. It is for this reason that Bank Negara Malaysia will help shape participation rules of the ecosystem, which include, to if necessary, formally mandate the participation of financial institutions in the platform, or to allow non-FI third-party providers access to the platform.
+
+In closing, my hope is that by providing consumers greater control over their own financial data, Open Finance will ignite new, data-driven innovations, opening up solutions that uplift the lives and livelihoods of customers.
+
+With that, I wish everyone a productive conference ahead. Thank you.
+
+
+
+Bank Negara Malaysia
+
+29 October 2024
+

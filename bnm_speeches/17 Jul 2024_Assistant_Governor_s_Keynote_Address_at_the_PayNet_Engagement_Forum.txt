@@ -1,0 +1,93 @@
+TITLE: Assistant Governor's Keynote Address at the PayNet Engagement Forum
+DATE: 17 Jul 2024
+URL: https://www.bnm.gov.my/-/agsa-spch-pef24
+--------------------------------------------------
+
+
+
+Keynote Address by Assistant Governor Suhaimi Aliat the PayNet Engagement ForumSasana Kijang | 17 July 2024
+
+
+
+First of all, allow me to extend my gratitude to PayNet for inviting Bank Negara Malaysia to speak at the inaugural PayNet Engagement Forum. It is my pleasure to be here with all of you today.
+
+Malaysia’s payment landscape has undergone significant transformation over the past decade, marked by increased digitalisation and innovation. Notably, digital payment adoption has sustained its sharp upward trajectory, in line with the vision set in the Financial Sector Blueprint. In 2010, the average e-payment transactions per capita in Malaysia was at a modest 44 transactions. Fast forward to 2023, we have seen an impressive leap to 343 transactions per capita. This means that today, each adult Malaysian makes about one e-payment transaction almost every single day, a striking contrast to less than once a week a decade ago. At this rate, we are on track to meet our goal of 400 e-payment transactions per capita by 2026 much sooner than expected. In fact, we could reach this milestone sometime this year.
+
+This positive trend has been supported by pivotal changes in the payment ecosystem which have reshaped the way we conduct business today and manage our daily transactions. Users have easy access to a wide array of payment channels such as QR codes, cards and internet banking which offer services that are convenient, fast, affordable and secure. The ecosystem is also being driven by healthy competition not just among banks but also with non-banks that are agile, pushing the boundaries on innovation, and willing to support unserved and underserved segments.
+
+These factors have enabled Malaysia to fast-track our transition to a more cashless society. And by embracing digital payment, this has also helped boost productivity, expand market access, and ultimately improve the livelihoods of individuals and small businesses, thereby paving the way for a more vibrant economic future.
+
+Having said that, our work does not stop here. BNM remains committed to advancing digitalisation of the financial sector to benefit the people. This vision entails fostering a thriving digital payment landscape supported by payment infrastructures that are not only robust and secure, but also adaptable to rapid changes in technology.
+
+Ladies and gentlemen,
+
+As we reach the halfway mark of our Financial Sector Blueprint 2022-2026, it is timely that we reflect upon the factors that will sustain and further propel efforts to realise our vision for digital payments. With this in mind, let me share five key building blocks that we believe are instrumental in fostering a thriving digital payments ecosystem.
+
+First is finding the optimal balance between fostering greater inclusivity in digital payments and enabling a sustainable ecosystem.
+
+For digital payment to thrive, these services should be accessible to almost every layer of society, including the underserved. At the same time, product offerings need to be commercially viable, so that players can upkeep their systems and continue to innovate. Striking an optimal balance between these two priorities is crucial to our collective success.
+
+On this front, I understand that PayNet and the industry are already making good progress on the future commercial model of the DuitNow QR service. The industry’s commitment to transition to a tiered pricing mechanism for the DuitNow QR service is a step in the right direction and ensures an inclusive and sustainable DuitNow QR ecosystem.
+
+To complement the rollout of the new pricing model, PayNet and the industry must have in place a clear, well-thought-through, and coordinated communication strategy to keep the public well-informed about the objectives of this undertaking and the benefits we aim to achieve. This strategy will ensure that any concerns are appropriately addressed while ensuring transparency and trust in industry efforts.
+
+At the same time, the industry should continue to work on introducing more cost-effective innovative solutions that could empower the underserved segment. The recent launch of PayNet Checkout, for instance, is a commendable step forward, equipping MSMEs with a one-stop platform for seamless and simpler e-commerce processes. By empowering small businesses to have better control of their finances, we can drive meaningful change and help uplift entire communities.
+
+The second building block is the development of an open finance ecosystem that is fit for the future
+
+While the sharing of customer information already happens between industry players, the process is often inefficient and at times may not be fully secure. For example, we continue to see the sharing of information such as bank statements and a photocopy of identity cards taking place between players through emails and at times even via messaging services such as WhatsApp. Additionally, there is a proliferation of apps and services that allow customer data to be ported out using unsanctioned channels, such as via screen-scraping, as observed in some markets.
+
+This is where open finance can play a role. There is a growing recognition of the importance of key infrastructures that store, share or synthesise financial and consumer data as the foundation for the digital economy.
+
+Open finance therefore has the potential to significantly transform and improve the way the financial sector shares relevant data, leading to better consumer outcomes. Open finance can help support this by providing consumers the right to exercise greater control over their own personal data and establishing a customer-permissioned, trusted, secure and structured environment to do so. We envision this to then enable new product development for consumers and providers, particularly data-driven innovations that could promote greater financial inclusion and empower consumers to make better-informed financial decisions.
+
+To make open finance a reality, everyone has a part to play. The industry should remain responsible to lead the development of innovative and safe products for consumers enabled by open finance; help shape secure standards for open finance through constructive consultation; and inspire public confidence in the open finance ecosystem through sustained high-level standards of services.
+
+On the Bank Negara Malaysia’s end, some of our immediate focus in this area includes putting in place an enabling regulatory environment that will support the financial sector’s push for open finance, and by extension for open data use cases to take place. We will continue to work closely with PayNet and the industry in this space to make this happen.
+
+Thirdly,we need to be prepared to embrace new innovations to build a thriving digital economy
+
+The payment space has been changing rapidly, especially in recent periods, with many new innovations such as artificial intelligence (AI), asset tokenisation and quantum computing already on the horizon. These innovations can potentially revolutionise the digital payment ecosystem and bring significant benefits to the nation.
+
+Therefore, we expect PayNet and the industry to actively explore and capitalise on these emerging innovations in providing services. For instance, asset tokenisation can facilitate fractional ownership and liquidity, reduce transaction costs, and enhance transparency in financial transactions. We are also seeing the benefits of AI in enhancing fraud detection capabilities, streamlining transaction processes through predictive analysis, and personalising customer experiences based on behavioural patterns. Quantum computing holds the promise of solving complex problems that are currently beyond the capabilities of traditional computers, potentially transforming various aspects of financial and payment services.
+
+BNM will continue to create an enabling environment to support industry innovation while maintaining broader financial system stability and fair consumer outcomes. Various channels are already available to the industry for innovations. We are also highly receptive to industry players coming to engage us on potential innovative solutions or use cases that have a compelling business case. Your insights and ideas are crucial as we navigate this rapidly evolving landscape.
+
+Our regulatory sandbox is also in place for the industry to test out new products, services, and business models with real customers in a controlled environment. Our recently refreshed Sandbox Framework further simplifies the eligibility assessment of applications for admission to the Standard Sandbox. Moreover, the introduction of the Green Lane enables financial institutions with proven risk management capabilities to test their innovations more quickly and flexibly. This is part of our commitment to foster collaborative experimentation and pilots that test use cases that can benefit Malaysia. This will allow us to understand the risks and benefits of these innovations and make informed decisions about their implementation and any potential regulatory adjustments that will need to occur. My ask is for the players to incorporate risk consideration and think about ensuring fair consumer outcomes early in the product development cycle. To do so late in the game will most likely attract higher compliance costs.
+
+Let’s move on to the fourth building block – strengthening safety and resilience of the digital payment ecosystem
+
+As we pursue developmental initiatives to drive digital payments, preserving the integrity of our payment systems remains paramount to safeguard public confidence. On this note, let me first commend PayNet and industry players for your strong support in establishing the National Fraud Portal or NFP. This initiative is indeed a major milestone in our collective efforts to combatting financial scams and fraud.
+
+Since its pilot launch, NFP has demonstrated the ability to enhance the NSRC fund tracing and recovery process through end-to-end automated processing and the use of data analytics. To stay one step ahead of the fraudsters, NFP is now exploring how to embed new features such as predictive analytics and transaction risk scoring to help the industry better respond to evolving fraud tactics.
+
+The NFP runs on billions of data points from our payment system, derived from many of you in this room today. For this, it is important for us to ensure that all players in the payment ecosystem eventually become part of the NFP to minimise any potential gaps in payment flow information. For those of you today who have yet to become a participant of NFP, this is a call to be prepared to act soon as part of our collective responsibility to combat fraud.
+
+For those who are already onboarded onto the NFP, I would like to emphasise the need to observe two key responsibilities. First is that the NFP and NSRC processes rely heavily on quick and accurate transactional-level information to be effective. Therefore, participants must be able to share high-quality information in a timely manner. Second, participating institutions need to take prompt action in responding to cases escalated by the NFP in validating fraud cases and earmarking identified transactions. Combatting fraud is a joint responsibility, hence we need to act together.
+
+In parallel, efforts to strengthen awareness and financial literacy of consumers should also continue. Consumers are after all our first line of defence in mitigating fraud and scams. A vigilant, informed and discerning consumer is better equipped to recognise and take appropriate actions on potential frauds and scams, thereby reducing the likelihood of falling victim to scams in the first place.
+
+Last but not least, Malaysia will be intensifying efforts to enhance cross-border payments
+
+Even as our domestic payment has become more efficient, cross-border payments remain mired with gaps, such as high cost, low speed and limited access and transparency. We should therefore seize opportunities to bring domestic payment efficiencies to the cross-border space. This is especially important considering the openness of our economy and the attractiveness of Malaysia as a destination for trade and tourism.
+
+Multi-pronged collaborative initiatives are already progressing on this front. Notably, instant payment system connectivity initiatives, both bilaterally and multilaterally via Project Nexus are moving full steam ahead over the coming years. These initiatives will be pursued through collaborations by both the public and private sectors. Existing efforts are already showing promise. Users are already benefiting from instant, simpler and cheaper international payment transactions. Cross-border QR merchant payment transactions from our three linkages alone with Thailand, Indonesia and Singapore in the second half of 2024 have already reached more than 1.3 million transactions, surpassing the 2023 volume by more than two times. This bodes well for our push towards greater regional economic and financial integration, with encouraging prospects to take these initiatives on a global scale.
+
+In parallel, BNM is intensifying work on central bank digital currency (CBDC) exploration. For instance, we are exploring the potential of wholesale CBDC to improve cross-border payments while facilitating local currency settlement for trade and investment activities. Work is also underway to explore CBDC use for domestic wholesale payment based on identified use cases to help us understand how it can address inefficiencies domestically. At the international level, BNM is also part of several BIS Innovation Hub-led projects together with other central banks to address longstanding issues on compliance and FX trade and settlement.
+
+We expect efforts to enhance cross-border payments to remain in the spotlight in the foreseeable future and will continue to pick up momentum, especially as Malaysia takes on the ASEAN Chairmanship in 2025.
+
+To this end, I urge PayNet and industry players to continue supporting these initiatives, in your relevant capacities. This could be in the form of direct participation in these projects as subject matter experts, as participants for the services, or even by simply driving public awareness on the availability of the services. By working together, we can create a more seamless, efficient, and secure cross-border payment ecosystem that benefits everyone.
+
+Conclusion
+
+Before I close, I want to reiterate that a whole-of-system approach and a strong public-private collaboration will be crucial in driving the building blocks that I shared earlier.
+
+It would be appropriate for me to also take this opportunity to acknowledge PayNet and the industry for the success and progress that we have seen so far. It would not have been possible without the commitment from all of you in pushing our digital payment agenda forward.
+
+But we are certainly not done. We will need all of you to continue to participate in relevant initiatives and lend full support to PayNet to drive their implementation on many of these efforts. On the Bank’s end, we stand ready to facilitate the industry in delivering a thriving digital payment ecosystem for the benefit of all individuals and businesses in Malaysia. And this will need to be complemented by effective communication to the public on the various initiatives being pursued not only to promote greater use and adoption of our digital payments, but also preserve confidence in our payment system.
+
+As I glanced through the agenda for today, I am encouraged to see that many more digital payment initiatives being explored by PayNet and industry will bring us closer to materialising this vision. With that, I wish all of you a fruitful and productive discussion ahead.
+
+
+

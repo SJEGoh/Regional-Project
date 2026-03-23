@@ -1,0 +1,83 @@
+TITLE: Governor's Opening Remarks at the 15th International Conference on Financial Crime and Terrorism Financing
+DATE: 05 Nov 2025
+URL: https://www.bnm.gov.my/-/spch-g-ifctf25
+--------------------------------------------------
+
+
+
+Opening Remarks by Governor Abdul Rasheed Ghaffourat the 15th International Conference on Financial Crimeand Terrorism Financing (IFCTF)Kuala Lumpur | 5 November 2025
+
+
+
+It is my honour to deliver the opening remarks at the 15th International Conference on Financial Crime and Terrorism Financing (IFCTF). Reaching the 15th edition of the IFCTF is a significant milestone. Congratulations to AICB, the Compliance Officer Networking Group and everyone involved in organising this conference.
+
+Over the years, the IFCTF has been a key platform for leading practitioners to exchange insights on the latest developments in financial crimes prevention. IFCTF brings together representatives from both the private and public sectors on a common platform – a manifestation of Malaysia’s whole-of-nation commitment in combatting financial crimes.
+
+This year’s conference is especially timely, following the recent conclusion of Malaysia’s Mutual Evaluation (ME) 2025 by the Financial Action Task Force (FATF) about two weeks ago. Let me first congratulate everyone involved in the ME 2025. Since the last ME in 2015, our decade-long efforts to enhance our legal framework, supervisory approaches, understanding of risks and financial intelligence culminated in a stronger AML/CFT/CPF regime for the country. This progress was made possible with tireless collaboration across the private sector, as well as government agencies and ministries, spearheaded by the NCC (National Coordination Committee to Counter Money Laundering).
+
+Apart from the ME, allow me to also highlight other significant milestones that we have achieved in the past few years, which contribute to a more secure financial sector. First, the amendments to AMLA (Anti-Money Laundering, Anti-Terrorism Financing, Anti-Restricted Activity Financing and Proceeds of Unlawful Activities Act 2001), which were gazetted in May 2025, enhance the supervision and regulation of reporting institutions, as well as investigation and prosecution procedures. Second, the conclusion of several thematic reviews and risk assessments, such as the National Risk Assessment, has deepened our understanding of illicit financial activities and their related risks to our financial system and this will support us to undertake more targeted policy formulation, supervisory measures and enforcement actions.
+
+It is important to note that illicit financial activities know no boundaries. As such, efforts to cement close cooperation among ASEAN countries in combatting transnational financial crimes are paramount to ensure the security, stability and safety of the region and the wellbeing of its people. As part of Malaysia’s ASEAN Chairmanship, we have overseen the issuance of the ASEAN Plan of Action on Combatting Transnational Crime (2025-2036) and ASEAN’s first Declaration on Combatting Money Laundering at the recent 47th ASEAN Summit.
+
+Ladies and gentlemen,
+
+Turning back to this year’s IFCTF and its theme, ‘The Future is Now: Tech-Driven Compliance in the Fight Against Financial Crime’. As I noted during the recent MyFintech Week 2025, Malaysia has made strong progress in modernising our payment systems, ranking second globally in QR payment adoption, with DuitNow becoming a common feature of our daily life. While we have seen digital technology develop at an unprecedented pace and improve our lives, there has also been a sharp increase in cybercrime. Bad actors use these same technologies to evade detection and manipulate the system, including through propaganda, disinformation, fraud and cyber-attacks.
+
+Businesses, including financial institutions, have also become targets of sophisticated scams involving AI-generated impersonation. Such incidents highlight the increasing risks posed by advanced technology and how anyone can fall prey. In the first quarter of 2025 alone, PDRM recorded 12,110 cases of online fraud throughout the country, involving losses of RM 573.7 million.[1]
+
+Over the years, Malaysia’s financial industry has weathered numerous challenges – some at times seemed unbeatable. Yet through resilience and collaboration, we have continued to move forward.  The financial industry must continue to address new challenges and safeguard the integrity of our financial ecosystem. In this regard, I call upon the industry to harness the principles of Collaboration, Creativity and Conduct.
+
+Principle 1: Collaboration
+
+Ladies and gentlemen,
+
+The evolving digital and financial landscape requires greater agility and collaboration to combat threats. Swift sharing of information and expertise is essential in our fight against financial crimes. Take, for example, the National Scam Response Centre (NSRC), established in October 2022, which serves as a collaborative platform for government agencies, financial institutions, and the communications industry. Arising from this collaborative effort, the NSRC now operates 24 hours a day to receive reports, trace, freeze, and recover scammed funds. As of the third quarter of 2025, it has received 263,683 calls. It has successfully seized RM12.91 million, and RM1.99 million of stolen funds have been returned to victims.
+
+Collaboration is also essential in fighting emerging crimes. Nowadays, we are witnessing the rise of crimes facilitated by technology, particularly through social media and streaming platforms. These new crimes are fuelled by the advent of new technologies. Tackling these emerging crimes is not the sole responsibility of law enforcement agencies alone. Each and every one of us must remain vigilant in detecting and reporting such activities.
+
+As fraud schemes become increasingly sophisticated, empowering consumers with knowledge becomes pertinent. In 95% of scams in Malaysia, victims knowingly transfer money to people who turn out to be scammers.[2]This demonstrates a critical gap in awareness and emphasises the importance of consumer education. Awareness among financial consumers is the first line of defence. Educating them on new scam methods and equipping them with tools to protect themselves is our shared responsibility. The #JanganKenaScam campaign, which I had the honour of launching in October 2023 at the 13th IFCTF, has been instrumental in raising public awareness, with surveys revealing that nine in 10 respondents are now aware of scam alerts from banks.[3]
+
+Collaboration should not be confined to formal settings. It must become an ingrained mindset to effectively combat ever-evolving financial crimes. By fostering strong collaboration across all levels of stakeholders, we can develop a more comprehensive strategy – both defensive and offensive – to ensure we remain ahead of threats.
+
+Principle 2: Creativity
+
+When it comes to tackling financial crimes, AML measures and infrastructure cannot remain stagnant. The financial industry must explore creative solutions and leverage on the latest technology. The FATF published a report[4]in July 2021 highlighting the benefits of digital solutions, including using AI to overcome money laundering threats, by improving real-time supervision by regulators and enhancing risk assessments and onboarding practices by the private sector.
+
+Domestically, the National Fraud Portal (NFP) launched by BNM, PayNet and financial institutions back in August 2024, has enhanced our ability to adapt to evolving scam tactics. The NFP facilitates faster fund tracing, timely interventions by financial institutions, as well as integration of transactions and mule account data from multiple sources.
+
+The utilisation of the NFP has strengthened financial institutions' prevention capabilities. Paired with other preventive and operational measures, the enhanced capabilities have successfully blocked fraudulent transactions totalling RM369 million between January and June 2025 and is on track to surpass the RM399 million of fraudulent transactions deterred in 2024. The NFP is also currently being enhanced to shorten tracing times, broaden data integration and elevate the use of predictive analytics for improved detection of fraud and mule accounts.
+
+Complementing efforts to foster creativity, the recent MyFintech Week 2025 saw industry players, regulators and law enforcement agencies come together to discuss innovative approaches in countering financial crimes. There were valuable discussions on developing AI-powered knowledge bases and strategies to combat investment scams and cross-border financial fraud. BNM has also noted a growing interest in utilising the Financial Technology Regulatory Sandbox for developing and testing innovative e-KYC solutions.
+
+I urge everyone to embrace creativity in developing innovative, transformative and actionable solutions. Every training, every forum and every sharing session must go beyond mere discussions. Together, let us turn these conversations into concrete actions to combat financial crimes more effectively.
+
+Principle 3: Conduct
+
+Ladies and gentlemen,
+
+As technology and AI reshape compliance and AML, we must remember that personal conduct and ethics are what ultimately sustain trust. No algorithm can replace the judgment, integrity and accountability expected of the financial industry. Cases of fraud and corruption within the industry remind us that we must continue to work on improving our conduct and send a clear message that unethical employees and bad actors must be penalised for misconduct.
+
+The Fair Treatment of Financial Consumers principles – fairness, transparency and due care – must continue to guide how technology is designed, deployed and governed. Regulators, financial institutions and customers each play a role in protecting the integrity of our system, especially as we intensify the fight against fraud, scams, and mule accounts.
+
+Conduct extends beyond compliance; it must be culture and conscience in action. One such example is equipping customer-facing staff with the discipline to address compliance and regulatory matters with confidence while ensuring a positive financial experience for the customers. On this note, allow me to acknowledge the contributions of customer service officers in the financial industry, whose vigilance allows the early detection and prevention of scams. As frontliners, your actions build customer trust and facilitate our efforts to educate and protect the public against financial crimes. It is conduct that preserves confidence and ultimately is what keeps the financial system safe and resilient.
+
+Conclusion
+
+Esteemed guests,
+
+Before I conclude, let me take a moment to reflect on the pivotal role each of us plays in shaping the future of financial crime prevention. The principles of Collaboration, Creativity and Conduct are not mere aspirations – they are guiding principles that inform our actions as we navigate the evolving landscape of the financial industry.
+
+As Warren Buffett wisely said, ‘someone’s sitting in the shade today because someone planted a tree a long time ago.’ With the theme ‘The Future is Now,’ this conference reminds us that tomorrow’s challenges require today’s solutions. Let us embrace this moment to build meaningful partnerships, foster innovation and lead with integrity – recognising that the work we do today will shape the financial system of the future.
+
+Thank you.
+
+
+
+[1]AI fuels scam surge: Over 12,000 online fraud cases in Q1 2025, losses near RM574m
+
+[2]Feature Article: Building a United Front Against Online Fraud Risk
+
+[3]Banking industry survey revealed high public awareness on scams, with 9 in 10 respondents saying that they read scam alerts from banks – The Association of Banks in Malaysia)
+
+[4]Opportunities and Challenges of New Technologies for AML/CFT(July 2021)
+

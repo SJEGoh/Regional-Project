@@ -1,0 +1,101 @@
+TITLE: Deputy Governor's Remarks at the RENTAS 25th Anniversary Industry Appreciation Dinner
+DATE: 18 Sep 2024
+URL: https://www.bnm.gov.my/-/dgmo-spch-rentas25
+--------------------------------------------------
+
+
+
+Remarks by Deputy Governor Marzunisham Omarat the RENTAS 25th Anniversary Industry Appreciation DinnerKuala Lumpur | 18 September 2024
+
+
+
+Assalamu’alaikum and a very good evening,
+
+Distinguished guests, esteemed colleagues, ladies and gentlemen.
+
+The Launch of RENTAS in 1999
+
+It is an honour to stand before you tonight as we celebrate a remarkable milestone—RENTAS 25th Anniversary. This evening marks not just a celebration of a quarter-century of achievements but is also a tribute to the hard work, dedication, and collective efforts of each and every one of you that have brought RENTAS to where it is today.
+
+Twenty-five years ago, on 22 June 1999, the launch of RENTAS was a significant leap in enhancing the efficiency, certainty, and finality of financial transactions in Malaysia.
+
+Under SPEEDS, our previous net settlement system, transactions between financial institutions were aggregated and settled only at end of the business day. This exposed participants to credit and liquidity risks, as the final net positions were only known at the close of the day, leading to potential delays and uncertainties.
+
+The introduction of RENTAS changed all of that. With real-time gross settlement, transactions are settled individually and in real-time across the books of the central bank, providing immediate finality and eliminating settlement risk. This ensures that good funds are available as soon as the transaction is processed, thus enhancing liquidity management for participants.
+
+RENTAS’ transformational impact on the nation’s financial market infrastructure and financial system did not end with its launch. A number of game-changing, impactful and transformational initiatives continued to be implemented over the course of 25 years after RENTAS launch in 1999.
+
+The Transformation of RENTAS
+
+Ladies and gentlemen,Since 1999, through the collaborative efforts of participating financial institutions and Bank Negara Malaysia, RENTAS has transformed from a standalone, domestically focused settlement system into a globally integrated financial market infrastructure.
+
+This transformation encompasses several key dimensions:
+
+First, Multi-Currency Capability: At its inception in 1999, RENTAS supported settlements exclusively in Ringgit. Today, RENTAS offers comprehensive multi-currency settlement and debt securities depository capabilities focusing initially on USD and Renminbi transactions. The launch of Renminbi settlement in 2012 underscores Malaysia's position as a recognized offshore Renminbi clearing centre. Indeed, by facilitating settlements in major trading currencies, RENTAS has significantly enhanced the Malaysian financial system's capacity to support international economic activities. This capability enables Malaysian banks to better position themselves in facilitating international economic activity and intermediating international capital flows.
+
+Second, International Participation: Initially designed for domestic participants, RENTAS now has international participants. This expansion facilitates cross-border transactions, fostering greater integration and collaboration between local and international financial institutions. The inclusion of international securities depositories, such as Euroclear, as participants in RENTAS enhances market liquidity and improves access for foreign investors to the Malaysian debt capital markets.
+
+Third, Global Linkages: Transitioning from a locally focused system, RENTAS has forged strategic linkages with international financial market infrastructures such as Euroclear. the Hong Kong Monetary Authority and SWIFT. These connection offers efficient multi-currency settlements, improves access to markets, and strengthen financial ties between regions.
+
+And Fourth, Adoption of International Standards: Moving away from proprietary standards, RENTAS has adopted internationally recognized standards such as ISO150022 and ISO20022. This alignment ensures compatibility and interoperability with global financial systems, facilitating smoother and more efficient international transactions. The adoption of international standards also streamlines transaction processes, reducing operational complexities and costs.
+
+The transformation journey for RENTAS has culminated in several landmark achievements:
+
+In 2023, RENTAS had settled transactions amounting to an impressive RM77.20 trillion. To put this into perspective, this figure is 43 times Malaysia’s GDP.
+
+In the same year, RM41.12 billion securities were issued and deposited in RENTAS.
+
+Additionally, RENTAS stands as ASEAN’s largest bond depository, with a total of RM2.09 trillion worth of bonds in custody.
+
+RENTAS is also the largest sukuk depository in the world with USD277 billion sukuk outstanding.
+
+This transformation over the past 25 years underscores our commitment to innovation and excellence in the financial services industry, positioning RENTAS as a leader in fostering a resilient and inter-connected financial ecosystem.
+
+Vision for the Future
+
+Ladies and gentlemen,As we celebrate the past 25 years, our work is far from done. We must continue to work hand-in-hand to build on what have been achieved and position our financial market infrastructure for the next 25 years, ensuring that RENTAS continues to be a catalyst, enabler and facilitator for the growth of our financial markets and financial system.
+
+Our vision for RENTAS has always been clear—to create a system that not only meets the needs of today but that also meets the demands of tomorrow and acts as a catalyst for the betterment of the Malaysian financial system.
+
+Towards this end, in February, we published a discussion paper outlining our plan to modernize RENTAS. This paper focused on two key areas: ensuring RENTAS is future-proof and enhancing both risk management and user functionalities.
+
+There are four key thrusts to drive the modernisation of RENTAS.
+
+First, we will extend RENTAS’ operating hours to 24x7 and support near real-time for retail payment settlement. This is in line with the G20 Roadmap for Enhancing Cross-border Payments which underscores the need to align the operating hours of key payment systems globally. 24x7 RENTAS operations will minimise cross-border transaction friction and delays which are partly driven by the varying operating hours of Real-Time Gross Settlement (RTGS) systems across jurisdictions as well as reduce risks for real-time retail payments.
+
+Second, to facilitate more seamless integration with other financial market infrastructure providers and asset ledgers, we will work on introducing new channels such as APIs to enable open access to RENTAS.
+
+Third, from the perspective of enhancing risk management and user functionalities, RENTAS is poised to increase the use of analytics and AI, providing participants with data, telemetry and insights to better manage settlement, depository and liquidity.
+
+Finally, we will look into improvements in liquidity management, with the aim to optimise liquidity use, support crisis preparedness and promote better payment behaviour.
+
+These initiatives are designed to enhance our financial infrastructure and ensure that RENTAS remains at the forefront of innovation and efficiency.
+
+Premised on the above key thrusts, various initiatives shall be rolled out, including:
+
+RENTAS+ Near-Real Time Settlement for Retail Payments: We will build an extension to RENTAS that runs 24x7 on the cloud and will continuously settle retail transactions on a gross basis.
+
+Cloud adoption for Greater Scalability & Resilience: We will rebuild Mini RENTAS, the last resort contingency system, in the cloud. This would improve the efficacy of our third site, providing both technological diversity as well as geographical diversity in the unlikely event of simultaneous failure of both our on-premise RENTAS host in the production and disaster recovery sites.
+
+Global certificates dematerialisation: We are working towards doing away with global certificates for all bonds deposited in RENTAS. This will eliminate thousands of paper certificates that have to be manually lodged, updated and replaced with every issuance and corporate action.
+
+All in all, we are excited to embark on this modernization journey alongside the industry, aiming to unlock RENTAS' full potential. The modernization of RENTAS represents our commitment to driving innovation and excellence in financial services. We are confident that these efforts will pave the way for a more dynamic, resilient, and interconnected financial ecosystem.
+
+Appreciation to Participants
+
+Ladies and gentlemen,This evening's celebration is also an opportunity for Bank Negara Malaysia to extend our sincere gratitude to everyone who has been part of this journey. To our participants - commercial banks, Islamic banks, investment banks, corporates, development financial institutions (DFIs), clearing houses, and our new friends, the digital banks—your unwavering support and commitment have been essential to our success.
+
+We wish to extend our appreciation to the teams and individuals who built and refined RENTAS, and to those who continue to champion its success. Your dedication and hard work have been the foundation of RENTAS' achievements.
+
+As we move forward, let us remember the importance of collaboration. By working together, we can unlock even more potential, streamline processes, and foster a more efficient and innovative ecosystem.
+
+Thank you again for joining us this evening and for being a part of RENTAS’ incredible journey. Let us work together to ensure RENTAS’ many more years of success and progress.
+
+Please do enjoy the rest of the evening. Thank you.
+
+
+
+Bank Negara Malaysia
+
+18 September 2024
+

@@ -1,0 +1,93 @@
+TITLE: Governor's Keynote Address at the Malaysian e-Payments Excellence Awards
+DATE: 19 Nov 2025
+URL: https://www.bnm.gov.my/-/g-spch-meea25
+--------------------------------------------------
+
+
+
+Keynote Address by Governor Abdul Rasheed Ghaffourat the Malaysian e-Payments Excellence Awards (MEEA)Kuala Lumpur | 19 November 2025
+
+
+
+Let me begin by thanking PayNet for bringing us together this evening at the Malaysian e-Payments Excellence Awards 2025. It is my pleasure to be here to celebrate the players who have driven innovation, shaped progress, and made a lasting impact on Malaysia’s payment landscape over the past year.
+
+As we gather today, I did want to reflect upon how our collective efforts have advanced the digital payment space in Malaysia. There are three key milestones that have underscored our progress:
+
+First, mainstream adoption:Today, on average, each Malaysian makes at least one e-payment transaction per day — a remarkable leap from just once per week a decade ago. Digital payments have become woven into our daily lives. More importantly, it has catalysed economic progress, supporting private consumption – Malaysia’s key growth engine – while raising productivity and unlocking new growth opportunities
+
+Second, regional payment connectivity:Beyond the domestic realm, Malaysia is now at the forefront of cross-border payments – building networks and shaping regional progress. Through our collective efforts, seamless cross-border payments is now a reality. This initiative – championed under Malaysia’s ASEAN Chairmanship this year – has enabled businesses to reach customers beyond borders, unlocking new opportunities for merchants of every size. Over 50 million merchant touchpoints across ASEAN can now accept cross-border QR payments, creating a vast ecosystem for inclusive growth, 2.9 million of these are located here in Malaysia, comprising mainly micro and small businesses.
+
+Third, strengthened security:With digital payment becoming entrenched in our daily lives, we remain focused on ensuring that safety and trust continue to be at the core of every payment transaction. Our collective efforts to combat online financial fraud is recognised globally. The financial industry has been at the forefront of these efforts with the roll-out of a robust suite of security measures. This was further strengthened by the National Fraud Portal (NFP) – a game changer in fraud response and fund tracing. The NFP has allowed us to stay agile against emerging threats, trace stolen funds faster, and act swiftly when it matters most.
+
+These milestones reflect significant investments of time, capital, and resources by the industry as well as strong public and private sector collaboration. While notable progress has been made, securing the future of our payment ecosystem is a continuous journey that will demand sustained commitment and collaboration.
+
+Thus, our journey is far from over. The question before us now is two-fold. One, where will the next era of digital payments be heading — and two, are we prepared to meet the demands of this new era?
+
+Ladies and gentlemen
+
+Here, let me offer some perspectives on the challenges and what it will take to be ready. I will outline three key building blocks that will be essential as we navigate this rapid evolving landscape.
+
+First, inclusivity and accessibility.
+
+The future of digital payments will be centred around inclusivity — where no one is left behind. Digital payments must become a universal enabler, accessible to all, regardless of income group, geographic location or demographic background. When designed with inclusion in mind, digital payments can be transformative – uplifting livelihoods, broadening financial participation, and unlocking opportunities for communities to thrive.
+
+We have seen this transformation firsthand. Take Cashless Redang as an example, where over 90% of businesses in that island now accepts digital payments. This effort has improved business efficiency and enhanced the livelihood of the community. Together with the industry, the Bank’s e-Duit Desa programme has also pushed for more small businesses to be digitally ready. Over 800 micro-merchants were onboarded last year under this programme.  Given that there are over 760 thousand micro-merchants, being the backbone of the nation’s economy, we need to actively onboard more micro-merchants and empower them with digital financial services to unlock new opportunities.
+
+At the core of fostering inclusivity is accessibility. Digital payments must be affordable for all, while consumers need to have the skills and confidence to use them. I am aware that PayNet has been gradually rolling out adjustments to its access fees and product pricing. With these adjustments, more players including non-banks can benefit from PayNet’s RPP ecosystem, potentially driving down the cost of digital payment acceptance. It is also our expectation that the industry channel these savings back to consumers as affordability is essential to inclusion and wider adoption.
+
+Users must also have the confidence to pay digitally. Today, one in six Malaysians have encountered with fraud and scams, while six in ten simply overlook basic online security measures.  These statistics are worrying especially when added to the fact that 95% of fraud cases reported are linked to authorised scams where users willingly transfer money or share credentials. With the consumer being the first line of defence, the industry must intensify efforts to empower users with the skills and tools to transact safely and confidently.
+
+Campaigns like Jangan Kena Scam and the Financial Literacy roadshows play a vital role in bringing scam prevention and digital financial education directly to communities. The National Strategy for Financial Literacy 2026–2030 further reinforces this by promoting safe, confident, and meaningful use of digital financial services through tailored outreach programmes for underserved communities.
+
+The second building block is about agility in innovation
+
+A future-ready digital payment ecosystem is also one that is agile, forward-looking, and innovation-driven, that enables Malaysia to continuously adapt to emerging technologies and evolving user needs.
+
+Innovation is not just about technology — it is about delivering real benefits, while opening new avenues for growth and increased competition for the benefit of the user. Already, we are witnessing innovation reshaping the payment landscape.
+
+Artificial Intelligence (AI) is enabling faster and more personalised payment experience for example through Agentic AI while also supporting strengthened fraud prevention. To optimise these benefits, we must however adopt AI responsibly. The use of AI should include guardrails to ensure accountability for AI-driven decisions and address threats such as AI-enabled scams that could undermine trust.
+
+The Open Finance initiative being led by PayNet will also empower users with personalised financial services through secure, permissioned data sharing. This marks a significant shift from institution-centric models to user-centric ones — giving individuals greater control over their financial data and choices. We welcome industry feedback on the recently released Open Finance Exposure Draft, as we shape the future of Malaysia’s financial ecosystem together.
+
+Cross-border payment is another fast-paced and highly competitive space today — with initiatives like Project Nexus aiming to make international transactions real-time, low-cost, and more accessible. Strong partnership between PayNet and the industry will be crucial to help us reshape the global payment landscape and deliver Project Nexus successfully. These efforts will be key towards realising the full potential of cross-border payments – aligning with our shared vision for greater regional economic and financial integration.
+
+Beyond traditional finance, innovation is also transforming payments through new delivery models powered by digital assets. Through Digital Asset Innovation Hub, discussions between BNM and industry players have intensified in recent months as we explore high impact use cases that would deliver the greatest upside to the Malaysian economy. Some of the use cases under consideration include on-chain settlement assets (such as Ringgit stablecoins and tokenised deposit) to support off-RTGS (real-time gross settlement) market hours settlement for bond settlement and cross-border trade.
+
+Collectively, these innovations will seek to address longstanding pain points in traditional payment systems, while paving the way for market infrastructures that are responsive to the evolving needs of the financial system and broader economy.
+
+Ladies and gentlemen,
+
+The third building block is resilient and secure infrastructure
+
+As digital payments become an integral part of everyday life and the backbone of our economy, resilience and security have become non-negotiable. With real time financial services becoming customer’s expectation – even for cross-border payments – any lapses in service or security can undermine user adoption and confidence. Payment service providers are therefore expected to uphold the highest standards of reliability, availability, and safety in order to attain the public’s trust in the system.
+
+To this end, we are laser-focused in building a payment ecosystem that is secure and trusted. To realise this, BNM will continue to spearhead the modernisation of Malaysia’s core payment infrastructure with the strong support of PayNet and the industry.
+
+I am pleased to see that the industry has fully migrated to ISO 20022 messaging standards for both domestic and cross-border transactions, ahead of schedule – and among the first globally. The recent roll out of RENTAS+, another first of its kind initiative, is enabling near real-time interbank fund transfers and settlements for retail transactions, operating round-the-clock throughout the year. With this, BNM will be paying attention to how the industry’s liquidity management behaviour evolves and the impact on broader market liquidity, especially as we explore moving other retail products to RENTAS+ in the coming years. To complement this effort, BNM will also be enabling more timely access to RENTAS data through API connectivity to support more effective liquidity risk management.
+
+Despite its success, the NFP also cannot stand still. We are further enhancing NFP capabilities with predictive analysis which should be ready for industry-wide roll-out next year. As we strengthen this tool, there is also a realisation that our fight against fraud must transcend sectors and borders. Instant cross-border payment means instant cross-border fraud. Criminals are also exploiting the crypto space to move illicit funds across countries. To counter these evolving threats, BNM will prioritise efforts to facilitate secure sharing of fraud-related data in the coming year.
+
+Looking ahead, we will need to continue fortifying our defences not just through greater use of advanced technology, but also by cultivating a strong cyber culture across the industry. Industry is expected to strengthen cyber defences and service resilience in critical retail payment systems through the enhanced Risk Management in Technology (RMiT) framework. This includes preparing for quantum-resilient infrastructure, greater use of artificial intelligence while also ensuring our payment systems remain secure and robust even in the face of next-generation technological threats.
+
+All these efforts will go hand in hand with our broader oversight responsibilities where strong emphasis will be put on high system and service availability, agile risk management – including system redundancy and business continuity planning – and adherence to international standards such as the Principles for Financial Market Infrastructures (PFMI).
+
+As we prepare for the future, our payment systems must be future-proofed — capable of embracing emerging innovations while effectively managing the risks they bring.
+
+Ladies and gentlemen,
+
+Before I close, let’s revisit the questions I posed earlier:Where is the next era of digital payments heading towards — and are we ready for the new demands it brings?
+
+The outlook may still look somewhat uncertain, but one thing is clear — payments will continue to evolve, shaped by technology, shifting consumer expectations, and intensified competition. Amid these changes, the building blocks we have discussed today — inclusivity, innovation, and resilience — will serve as a solid foundation for the industry to adapt, respond, and thrive in the digital economy of tomorrow.
+
+Let us also continue to collaborate in shaping the future of payments. Together, we can build a payment ecosystem that is not only world-class, but one that reflects the values and aspirations of all Malaysians.
+
+And as we approach Visit Malaysia Year 2026, everyone in the payment ecosystem here today has a critical role to play in ensuring that trade and tourism activities flourish as we see a surge in visitors to Malaysia. Whether it is a tourist making a purchase at a local market, or a business transacting across borders, their payment experience must be efficient, secure, and trusted. Let us assure everyone that they can spend in Malaysia with ease, knowing that our payment systems are ready to support them, anytime and anywhere.
+
+Before I conclude, I want to express my sincere appreciation to Mr. Farhan Ahmad for his service and invaluable contribution during his tenure as PayNet’s Group Chief Executive Officer. Under your leadership, PayNet has truly stepped up in shaping Malaysia’s financial landscape and placed our payment system on the global payments map. To Mr. Praveen, congratulations on your appointment as the new PayNet’s CEO. Welcome aboard, and I look forward to working together as we chart Malaysia’s payment journey.
+
+Lastly, congratulations to all the award recipients. These achievements are not just corporate milestones — they are national markers of progress that reflect Malaysia’s journey toward a more inclusive digital economy.
+
+On that note, thank you and I wish everyone an enjoyable evening.
+
+
+

@@ -1,0 +1,85 @@
+TITLE: Deputy Governor's Opening Address at the 25th APG Typologies Workshop 2024
+DATE: 12 Nov 2024
+URL: https://www.bnm.gov.my/-/dgmo-spch-apgtw24
+--------------------------------------------------
+
+
+
+Opening Address by Deputy Governor Marzunisham Omarat the 25th APG Typologies Workshop 2024Sasana Kijang | 11 November 2024
+
+
+
+Selamat datang and selamat pagi. This means welcome and good morning in the Malay language. It is a great honour to welcome all of you to the25th APG Typologies Workshop. To our foreign guests, welcome to Kuala Lumpur and welcome to Bank Negara Malaysia.
+
+Hosting this for the fourth time, I have always found this workshop beneficial to stay ahead of evolving trends in money laundering, terrorism financing and proliferation financing (ML/TF/PF). With the new round of Mutual Evaluations (ME) on the horizon, workshops such as this have become even more important, enabling us to come together to discuss and learn from each other on emerging financial crime typologies.
+
+Ladies and gentlemen,
+
+All of us share a common vision to preserve the integrity of our financial system. Financial crimes are like an endemic that could ravage a country. One, it evolves quickly, requiring adaptive strategies to monitor and respond to the symptoms. Two, it spreads quickly, and needs to be detected earlier and stopped, or it will create havoc. Three, it requires a precise and comprehensive approach to effectively combat it.
+
+Today, I will offer three characteristics of a robust approach to combating financial crimes, namely:
+
+or, in short, APG.
+
+Before I elaborate, allow me to briefly comment regarding the abuse of legal persons and cyber-enabled fraud.
+
+Recent high-profile corruption and ML scandals, such as those exposed by the Panama and Pandora Papers, have shed light on the sophisticated misuse of corporate structures. Criminals exploit these complex setups to conceal true ownership, thus evading detection and oversight.
+
+Meanwhile, the digitalisation trend has also heightened the effect of cyber-enabled fraud. The Global Anti-Scam Alliance reported that at least 25% of the global population has been affected by fraud, that is one in four people, with global losses from scams accounting for 1.1% of global GDP in 2023. That is a lot of money. Financial Action Task Force (FATF) and INTERPOL also highlighted fraud as a significant ML risk, identifying threats such as ransomware, phishing and online scams as among the top ten cybercrime trends.
+
+We also observe this in Malaysia. Fraud has been identified as one of our top high-risk crimes in our National Risk Assessment 2023. Malaysia’s National Scam Response Centre (NSRC) has received over 131,000 calls from scam victims, with reported losses totalling RM388 million, or around USD80 million, as of September 2024.
+
+Let us now turn to the three characteristics of a robust response to financial crimes.
+
+First: Adapting Our Approach
+
+What may have worked in the past may not work now. Threats, like viruses, evolve over time. Through the National Risk Assessment exercise, threats and risks to ML/TF/PF are regularly identified and assessed. Critically, we must ensure that our domestic laws and regulations are fit for purpose, and relevant to the emerging threats and risks. One such example is the FATF’s recent revision of Recommendation 24, which highlights the need for Beneficial Ownership (BO) registries to ensure timely access to BO information by authorities.
+
+These registries enhance law enforcement agencies’ ability to trace the real ‘masterminds’ behind companies. It prevents risk transfers and exposes those operating in the shadows, allowing us to stop ‘bad actors’ before abuse becomes widespread and turns into an endemic.
+
+Countries worldwide, including the US, UK and Indonesia, in the APG region, have established BO registries. In Malaysia, platforms like e-BOS1 and PEARL2 have been set up to facilitate access to BO data, thus assisting law enforcement agencies in their investigations.
+
+Let us not also forget the important and crucial role played by our Designated Non-Financial Businesses and Professions (DNFBPs), such as company secretaries and lawyers. They are often targeted to facilitate the creation of opaque corporate structures. Ensuring that these key actors are well-informed and well-regulated is vital in fostering a resilient system. This was highlighted in FATF’s recent report on the “Horizontal Review of Gatekeepers” Technical Compliance Related to Corruption. By equipping DNFBPs, they are also able to play a role in identifying and reporting suspicious activities.
+
+Second: The Importance of Public-Private Partnership
+
+Ladies and gentlemen,
+
+The second characteristic is the importance of public-private partnerships. Financial crimes are complex and multi-faceted. This responsibility does not rest solely on the authorities. It is only effective if we can integrate the resources, expertise and intelligence of law enforcement agencies, the financial intelligence unit (FIU), supervisors and the private sector. This is especially true for financial fraud and its associated ML risks.
+
+We have seen success stories in countries such as Singapore, Australia and Hong Kong, where public-private partnerships span across the areas of prevention, enforcement, recovery and awareness in combatting fraud.
+
+In Malaysia, we have also embraced this approach. Bank Negara Malaysia, together with the financial industry and the operator of our national payments network, collaborated to establish an integrated platform, the National Fraud Portal (NFP), to automate the tracing of stolen funds. To date, the portal has yielded positive results, including a notable 75% reduction in the time required to trace stolen funds, a 28% increase in average monthly earmarked amounts, and a 14% improvement in mule account detection.
+
+Beyond this, Malaysia’s collective efforts include industry-wide procedures for handling mule accounts as well as amendments to our legal framework, notably the Penal Code and Criminal Procedure Code. These measures form part of our robust response framework to fight fraud. To further enhance consumer protection, we have also implemented the Fair Treatment Policy to ensure more transparent and fair investigations by financial institutions for online fraud, emphasising the joint responsibilities of both customers and financial institutions in preventing unauthorised transactions.
+
+It is our joint responsibility to combat financial crimes. This is especially true with something as complex as cyber-enabled fraud. By fostering partnerships with all the relevant stakeholders from both the public and private sectors, I believe we can build a more resilient system and mount an effective defence against financial crimes.
+
+Third: Embracing Growth to Stay Ahead of Emerging Threats
+
+Ladies and gentlemen,
+
+The third characteristic I want to touch on is “Growth”. Relying solely on established processes can limit our ability and agility to combat financial crimes. We must continuously evolve to keep pace with the fast-changing landscape of financial crimes. To tip the scales in our favour, we must actively expand our capabilities and foster stronger collaboration across borders.
+
+Leveraging the collective expertise of the Global Network is central to this effort. For instance, we can utilise established coordination structures like the Asset Recovery Inter-Agency Network (ARINs), the World Customs Organization (WCO), and INTERPOL’s Global Rapid Intervention of Payments to further enhance confiscation and recovery efforts.
+
+As financial crimes increasingly transcend borders, strengthening the Global Network becomes essential to effectively share information and intelligence. This effort requires not only commitment and support but also dedication to sustain transparency and accountability. Initiatives such as this Typologies Workshop truly exemplify this. The APG Typologies Report 2024, which will be endorsed later today, stands as a testament to our collective commitment and dedication.
+
+In this spirit, Malaysia is committed to advancing multilateral collaboration within the region. Aligned with Japan’s Co-Chair priorities for 2024-26, Malaysia will continue to support initiatives that strengthen the AML/CFT/CPF regimes. With Malaysia set to assume the ASEAN chairmanship next year, discussions are already underway on establishing an ASEAN AML Working Group in 2025. Once established, this will be part of our regional collaborative efforts to combat financial crimes.
+
+Ladies and gentlemen,
+
+Conclusion
+
+As I close, let me draw back to my earlier comment that financial crimes can be likened to an endemic. The good news is - it can be cured, but it needs to be identified early and treated accordingly. New technology and innovations can also empower us to be better at identifying threats and preventing them. The bad news is the same tools are also available to criminals. Therefore, we must not be complacent but continue to remain true to the APG ethos,Adapt, Partner and Grow.
+
+Before ending, I would like to acknowledge those involved in making this workshop a success, including the APG Secretariat, the distinguished speakers, participants as well as my own organising team from Malaysia, who have worked tirelessly behind the scenes.
+
+Ladies and gentlemen, thank you once again, and I wish all of you an insightful and productive exchange in the sessions ahead.
+
+
+
+Bank Negara Malaysia
+
+11 November 2024
+

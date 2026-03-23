@@ -1,0 +1,81 @@
+TITLE: Deputy Governor's Closing Remarks at the 3rd Malaysian Banking Conference 2024
+DATE: 11 Jul 2024
+URL: https://www.bnm.gov.my/-/spch-dgaz-3mbc
+--------------------------------------------------
+
+
+
+Closing Remarks by Deputy Governor Adnan Zaylani Ahmad Zahidat the 3rd Malaysian Banking Conference 2024Shangri-La Hotel Kuala Lumpur | 11 July 2024
+
+
+
+A very good afternoon and thank you for inviting me to deliver the closing remarks for the 3rd Malaysian Banking Conference 2024.
+
+Congratulations to the Asian Institute of Chartered Bankers (AICB) and the Association of Banks in Malaysia (ABM) for organising a productive and insightful conference. “Banking in the Era of Generative AI”, is an apt theme at a time when artificial intelligence technology is rapidly evolving, with widespread implications for financial services.
+
+It is an exciting time for technological innovation in the financial sector. The digitalisation of financial services already promises many new possibilities, more frictionless experiences and better-customised services for customers. With the advent of large language models – or LLMs – we have in our hands the capabilities of powerful AI tools that will further expand these possibilities.
+
+The Malaysian financial sector is well-positioned to capitalise on all these developments. We benefit from strong financial and telecommunications infrastructure. Today, over 97% of Malaysians have access to the internet, 95% own a smartphone, and 96% of adults have an active deposit account.
+
+As the central bank and financial regulator, Bank Negara Malaysia (BNM) has a strong interest in the digitalisation of financial services. Four years ago, we launched the Licensing Framework for Digital Banks, and as of today, three of the awarded licensees have commenced operations. Just this week, we also launched the Licensing and Regulatory Framework for Digital Insurers and Takaful Operators (DITOs). Indeed, many of our incumbent players have also embarked on their digitalisation journey. Our vision is for the financial sector to leverage technology, including AI, to foster market dynamism and better serve the needs of Malaysians.
+
+The rapidly evolving nature of AI brings forth unprecedented potential benefits and risks, many of which we have yet to fully comprehend. For example, the rise of LLMs has propelled generative AI, or GenAI, into mainstream conversations, revolutionising human-computer interaction by shifting from traditional coding and interfaces to natural text and speech.
+
+Adoption of AI has significant potential to improve financial services
+
+Undoubtedly, the adoption of AI has significant potential to improve financial services. Like electricity, the internet, and smartphones, some experts have argued that AI is set to become the next general-purpose technology, with a real potential to improve our lives.
+
+Earlier today, you had the opportunity to hear about various AI use cases and applications – from revolutionising the customer experience in banking to supporting transition finance. These use cases have the potential to create value for financial institutions and consumers alike.
+
+In principle, these use cases stem from the AI system’s ability to better process higher volumes and less structured sets of data that would otherwise be impractical to analyse, delivering superior pattern recognition and predictive capability.
+
+In Malaysia, more than 80% of banks have adopted at least one AI-related project, with the most common use cases ranging from customer analytics to fraud detection, and electronic Know-Your-Customer (e-KYC).
+
+We at BNM are also excited about use cases that can advance our policy objectives for the nation. I will share four notable examples:
+
+Internally, we are also exploring ways in which we can use GenAI to support supervisory and policy analysis.
+
+However, admittedly we are only at an early stage of our GenAI adoption journey. For now we have established an AI trust and governance workstream to explore approaches to deploy AI in a responsible manner. Ethical and responsible use of AI remains at the centre of our AI strategy. This also means prioritising the development of expertise to seamlessly integrate responsible AI into existing analytical tools.
+
+AI adoption may intensify existing risks and give rise to new ones
+
+Ladies and gentlemen,
+
+While AI has the potential to revolutionise the financial services industry, AI adoption may intensify existing risks and give rise to new ones.
+
+In addition, external risks arising from the use of AI by malicious actors are likely to affect organisations regardless of whether they deploy AI systems, introducing new sources of cyber risk. For example, GenAI has enabled scammers to increase the sophistication of scam attacks and disinformation campaigns.
+
+A heightened prevalence of AI-enabled scams may undermine consumer confidence in digital financial services. Potentially, this might cause some consumer segments to withdraw from services like online banking altogether, for fear of falling victim to scams. This would risk the significant progress we have made in advancing financial inclusion through digitalisation.
+
+What are the next steps for financial regulators and the industry?
+
+Ladies and gentlemen,
+
+Reflecting on these developments and conversations held today, what ought to be the best way forward for the financial industry?
+
+To start, many, if not most, of the risks described earlier are familiar to financial regulators and bankers in the room today. In approaching these risks, we are building upon existing foundations. Frameworks such as the Risk Management in IT (RMiT) policy document lay out clear principles for technology risk management and address risks associated with third-party vendors and service providers. The policy document on the Management of Customer Information and Permitted Disclosures (MCIPD) likewise addresses risks to data privacy to consumers.
+
+While our current regulatory framework may not necessarily single out AI as a technology, it applies to the use of AI systems and is designed to address risks in a technology-agnostic way.
+
+How, then, do we identify and prepare for risks that are still unknown or emerging? Globally, financial institutions, regulators and international standard-setting bodies are generally converging on guiding principles for the responsible use of AI. These include fairness, inclusivity, transparency, robustness, and accountability. For financial institutions, responsible AI can be fostered through strong internal governance and risk management practices.
+
+At our end, BNM is committed to ensuring that our regulatory framework continues to remain proportionate to risks as we unlock the upsides of innovation. This means creating a conducive environment where responsible innovation and healthy competition are nurtured, novel business models and new entrants are given an opportunity to flourish, and associated risks are managed effectively – especially those that may threaten system-wide stability, consumer outcomes, and confidence in the financial sector.
+
+Towards this end, the BNM Regulatory Sandbox can play a key role in facilitating the testing of innovative AI use cases where there are any existing regulatory impediments. In such cases, the Sandbox may enable financial institutions to assess the feasibility of new AI-enabled use cases while providing BNM with insights into both opportunities and risks associated with these innovations. So far, the Sandbox has played a role in facilitating the testing of innovative use cases and business models, including digital remittance, e-KYC, Buy-Now-Pay-Later and digital insurance.
+
+Finally, it is worth highlighting that the financial industry also plays a role in responsible co-innovation to effectively overcome challenges faced and realise the potential of AI in finance.
+
+Conclusion
+
+Ladies and gentlemen,
+
+In closing, to quote Alan Turing, the English computer scientist and arguably one of the forefathers of AI, “We can only see a short distance ahead, but we can see plenty there that needs to be done”.
+
+AI has the real potential to improve financial services. But it also creates new and complex challenges. While AI systems today are increasingly adept at mimicking human intelligence, they are not infallible. It remains essential that human judgment plays a central role in overseeing and managing risks.
+
+By embracing AI responsibly, ensuring ethical standards and robust security measures, we can harness its full spectrum of capabilities to build a more resilient and customer-centric financial ecosystem. Let's seize this opportunity to innovate responsibly and shape a future where AI in finance enhances transparency, security, and accessibility for all.
+
+
+
+Thank you.
+

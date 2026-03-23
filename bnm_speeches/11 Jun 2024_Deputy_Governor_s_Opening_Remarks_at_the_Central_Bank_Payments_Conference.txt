@@ -1,0 +1,93 @@
+TITLE: Deputy Governor's Opening Remarks at the Central Bank Payments Conference
+DATE: 11 Jun 2024
+URL: https://www.bnm.gov.my/-/dgjc-spch-cbpc24
+--------------------------------------------------
+
+
+
+Opening Remarks by Deputy Governor Jessica Chewat the Central Bank Payments Conference11 June 2024 | Kuala Lumpur
+
+
+
+First and foremost, I would like to thank the organisers, Currency Research, for inviting me to speak today.
+
+Evolution of payments
+
+The payment system lies at the heart of economic activity. If money is the lifeblood of the economy, then payment systems represent the veins that allow money to flow to where it is needed.
+
+While this fundamental reality has not changed, over the past few decades, technological advancements have dramatically changedthe form, methods and experienceof payments in our daily lives.
+
+Not too long ago, we waited anxiously for cheques to clear to pay our mortgages or for funds to transfer across borders for our family needs or children’s education. Carrying cash in our purses or wallets was as automatic as putting clothes on to leave our homes.
+
+Today, many of us conduct daily financial transactions digitally and through our mobile phones – with a level of convenience not possible or imaginable before.
+
+In the wholesale payment space, the transformation has been no less significant. We have moved to highly automated, real-time systems that enable continuous and instantaneous settlement. The financial system has also become more efficient as settlement cycles for securities have been gradually reduced. Similar to retail payments, many of these improvements have been enabled by technological progress, creating greater efficiencies in the financial system.
+
+Central banks’ mandate for payments
+
+These developments have important implications for the role and responsibilities of central banks in relation to payment systems.
+
+While this role may vary across countries, central bank responsibilities over payment systems generally stem from an interest in: supporting the implementation of monetary policy; preventing systemic risks that can arise from the transmission of financial stress through the payment system; and promoting fair, efficient and inclusive operations of payment systems given their central role in the economy.
+
+In the case of Bank Negara Malaysia (BNM), our responsibilities have two dimensions. First, as overseer to ensure the safety, reliability and efficiency of the payment system. Second, leading and supporting a developmental agenda to ensure that the payment architecture remains fit for purpose in support of economic activity.
+
+Significant changes occurring in the payment landscape have impacted the way central banks view their responsibilities for payment systems in at least two ways.
+
+First, for many central banks, the payment mandate has taken on a much more important strategic focus – perhaps not seen to the same degree in earlier periods. Technological advancements offer enormous potential to achieve faster, lower-cost and convenient payments. Harnessing this potential has inevitably involved a significant role for central banks to address coordination issues in a way that reduces fragmentation while encouraging competition. It also falls on central banks to ensure that payment systems remain safe and reliable amid new and emerging risks. And central banks have a keen interest in ensuring that technology works to create more inclusive finance for all.
+
+For these reasons, central banks have generally been very visible in strategic initiatives to drive the adoption of digital payments, improve cross-border payment arrangements, and modernise financial market infrastructures. In these examples, central banks have assumed a key role in setting the pace and driving change by actively bringing together stakeholders to work in concert.
+
+The second notable impact concerns the more significant interdependencies that have emerged across functions within central banks. Radical developments in the payment space have created a strong current, forcing different parts of central banks to come together to better understand and untangle payment trends and how they interact with the economy and society. This effect has been pervasive – certainly in our experience – involving those working within areas of supervision, financial markets, financial development, monetary policy, technology, risk management, fraud and financial education as well as financial inclusion.
+
+This evolution in how central banks approach their responsibility for payments is driven in part by a desire to encourage competition and innovation in financial services in order to better meet current and future needs of the economy.
+
+Critically, it also reflects the need to anticipate and manage risks to the central bank’s mandates. The pace of change and potentially far-reaching impact of payment innovations requires central banks to carefully consider how such innovations affect the complex balance between resiliency, inclusivity, efficiency and policy efficacy.
+
+We need to remain vigilant to new pockets of risk even as we pursue measures that aim to encourage responsible innovation.
+
+For example, with many transactions becoming almost real-time, intraday liquidity management becomes more crucial for players. IT infrastructure and cyber security have shifted into sharp focus especially since the surface along the payment value chain for threat actors to exploit has expanded significantly.
+
+The regulatory perimeter today also poses new challenges. Banks now co-exist alongside significant non-bank payment providers that include ‘big tech’ and crypto asset players that may not be consistently regulated. New cooperative oversight arrangements need to be carefully considered to ensure that emerging risks and vulnerabilities remain well-managed. With instantaneous cross-border payments becoming more pervasive, cooperation across borders also need to consider issues surrounding capital flow management as well as dispute handling for fraudulent cross-border transactions.
+
+As central banks experiment with new digital forms of money such as central bank digital currencies (CBDC) and tokenised deposits, the way central banks oversee payments is also poised to change significantly as these instruments become more widely used in the payment ecosystem. Indeed, the more imminent prospect of private sector stablecoins is already raising important questions on the adequacy of existing regulatory frameworks and their implications for the monetary system, including the impact on transmission mechanisms for monetary policy.
+
+International standard-setting bodies like the BIS, CPMI and IOSCO would have an important role to play in supporting appropriate responses to these challenges by fostering dialogue, considering standards, and facilitating greater information exchange and collaboration between central banks and regulators around the world.
+
+Developments in Malaysia and ASEAN
+
+Against this backdrop, BNM has established a cross-functional Digital Currency Research Hub (DCRH) to lead an open and pragmatic approach to innovation by exploring how emerging technologies can futureproof our domestic payment infrastructures.
+
+An immediate focus has been an undertaking that is currently in progress to modernise our RTGS system. Earlier this year, BNM issued a discussion paper that outlines plans to modernise our large value payment system, RENTAS. This will include supporting near 24/7 operations, wider participant access, enhanced data sharing and analytics capabilities, and more effective liquidity management.
+
+At the same time, we are actively pursuing exploratory work on the potential of wholesale CBDC to futureproof RENTAS and improve cross-border payments – including facilitating local currency settlements for cross-border trade and investment activities to reduce foreign exchange costs and enhance resilience against financial shocks. To this end, BNM is working to develop a wholesale CBDC prototype based on identified use cases to help us understand how CBDC could support new payment solutions that can overcome pain points faced today.
+
+Concurrently, BNM also continues to be actively involved in projects conceived under the BIS Innovation Hub, along with other central banks both in this region and beyond.
+
+The DCRH has also been tasked to study potential use cases for asset tokenisation. This would bring together money and assets on a programmable ledger that could unlock significant efficiencies and benefits for the wider economy.
+
+In the area of retail payments, we have no immediate plans to issue retail CBDC given the highly efficient domestic retail payment systems operating today. Central banks in this region have however, deepened our cooperation significantly in recent years to enhance cross-border payment connections given the strong trade and economic ties between our countries.
+
+Notably, cross-border interoperability of fast payment systems has become a priority. It is projected that 84% of Southeast Asian consumers will use e-wallets by 2025.[1]This has motivated the establishment of numerous bilateral payment linkages across the region, with more than 10 bilateral payment linkages already up and running. Commitment to this goal was further cemented by the Regional Payment Connectivity (RPC) memorandum of understanding signed by five ASEAN central banks, including Malaysia, in November 2022, which has now been expanded to eight[2]ASEAN central banks.
+
+In parallel, ASEAN member states are collaboratively developing a multilateral network to scale these linkages in a more efficient manner. Working with the BIS Innovation Hub, several ASEAN member states including Malaysia are advancing a first-of-its-kind multilateral network connecting multiple domestic instant payment systems through the implementation of Project Nexus.
+
+Nexus will expand access for individuals and businesses to low-cost, convenient, safe and fast payments across borders by building on the familiarity of users with domestic payment systems. This is expected to reap substantial benefits for cross-border P2P transfers, while also expanding opportunities for micro and small businesses to serve many more customers from different countries.
+
+The recent conclusion of Phase 3 of the project brings us another step closer to realising its potential to scale globally.
+
+Conclusion
+
+Looking ahead, the pace of developments in the world of payments shows no signs of slowing down. Central banks are faced with a choice of helping to shape such developments or react to them. I think we must be prepared to do both. This could mean embarking on bolder strategies to test and learn, while remaining sharply focused on our ability to carefully manage risks – both in terms of risks to the stability and integrity of payment systems, as well as risks to our core mandates. This challenge must be met head-on to deliver sustainable and beneficial outcomes for society and the economy.
+
+Clearly, this is not a journey that central banks can undertake alone. But it will require some degree of clarity to emerge on the specific roles that central banks may choose to assume at different points along the journey. And it will require a high degree of agility within central banks to navigate the road ahead.
+
+The good news is that collaboration among central banks has never been stronger.
+
+Let me conclude here. Thank you for your attention and I wish you a fruitful and productive conference.
+
+
+
+[1]Source:Southeast Asian Consumers Are Driving a Digital Payment Revolution | BCG
+
+[2]Indonesia, Malaysia, Philippine, Singapore, Thailand and followed by Vietnam, Brunei and Laos
+

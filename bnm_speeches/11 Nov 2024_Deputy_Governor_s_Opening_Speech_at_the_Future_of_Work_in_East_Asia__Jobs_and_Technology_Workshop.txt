@@ -1,0 +1,57 @@
+TITLE: Deputy Governor's Opening Speech at the Future of Work in East Asia: Jobs and Technology Workshop
+DATE: 11 Nov 2024
+URL: https://www.bnm.gov.my/-/dgmo-spch-wbjtw
+--------------------------------------------------
+
+
+
+Opening Speech by Deputy Governor Marzunisham Omarat the Future of Work in East Asia: Jobs and Technology WorkshopAsian Institute of Chartered Bankers | 11 November 2024
+
+When we talk about AI, machine learning, and automation, it is natural to focus on what these innovations can offer. Yet, many policymakers face a delicate challenge in managing the impact of technological advancements on jobs, and therefore, livelihoods.
+
+On this, let me touch on three points. First, technological advancement is a constant feature of our modern economy, and the pace of technological change will, in my opinion, accelerate. It took around 20 years for the internet to reach more than 80% household adoption in the United States.[1]But it only took 8 years for smartphone usage to achieve the same. Now, improvements in Large Language Models are felt annually, if not sooner.
+
+While each new wave of technological advancement brought major shifts in the types of jobs available, the net impact has been more and better jobs. Our living standards have also improved dramatically. Deloitte’s 2014 study of occupational census data in England and Wales dating back to 1871 found that technological advancement led to the decline of ‘muscle power jobs’. But it also found an increase in ‘caring professionals’ jobs such as health and teaching professionals.
+
+However, there are valid concerns that today’s technological progress is different. AI and quantum computing are allowing for unprecedented innovations in fields from communications to cybersecurity. While past innovations displaced jobs defined by routine tasks such as assembly line work, today’s potential disruptions extend to cognitive and non-routine tasks. The IMF estimates that almost 40% of global employment is exposed to AI.[2]It suggests that even ‘skilled’ jobs will need to adapt to new technologies. We cannot even rule out that one day GenAI might take over the jobs of many of us in this room.
+
+This brings me to my second point: In the face of such rapid change, we can choose how we respond to it. At this stage of our economic development, Malaysia has so much more to achieve. As such, we can neither afford to be fearful of technological progress, nor can we be passive by-standers in face of the technology revolution.
+
+Malaysia’s has historically experienced a low unemployment rate averaging 3.5% over the past two decades. However, there is a continued reliance on low-cost, labour-intensive business models as our core competitive advantage. This has constrained wage and productivity growth. In 2023, 57% of workers were classified as semi-skilled and 12% as low-skilled. Wage growth and productivity gains have relatively been sluggish. BNM’s study found that post-pandemic, the median starting salary is lower by more than 20% at RM1,624 in 2022 than pre-crisis at RM2,066 in 2019. The difference in median starting salary of graduates and non-graduates also narrowed to RM101 per month in 2022 from RM568 in 2018. Therefore, the pragmatic adoption of technology can be a game-changer for our economy, both in terms of productivity gains and improved competitiveness.
+
+Here's another perspective: traditional product life-cycle theory suggests that “laggard” firms grow by imitating the technology and practices of the “frontrunners” in the industry.[3]Over time, the gap narrows. However, there is an emerging view that the technology revolution may bring opportunities for nimble “laggard” firms that are unconstrained by legacy costs to leapfrog technologically. And we are increasingly seeing this from fashion to finance, where new firms using technology are disrupting legacy traditional firms. I therefore urge our local firms to try and adopt technological progress.
+
+In this regard, BNM has set up a RM2.6 billion High-Tech and Green Facility as well as a RM1.3 billion SME Automation and Digitalisation Facility in order to facilitate the technology upgrades of Malaysian firms.
+
+I have no doubt that AI will lead to large-scale disruptions. And that these disruptions can stretch our collective capability to adapt. And here’s my third point: there is a role for policy to maximise the technological opportunities, while minimising the risks.
+
+A Khazanah Research Institute study in 2017 estimated that more than half of current jobs in Malaysia are at high risk of being affected by automation within the next two decades.[4]BNM’s survey of 25 financial services institutions[5]found that 84% of these institutions have at least one AI project in active use. AI is transforming tasks like customer analytics, digital onboarding, and credit underwriting, reducing demand for certain roles such as bank tellers, while increasing demand for technical jobs such as data scientists and programmers.
+
+These trends are not confined to those in finance but across industries. However, I would caution against us falling into the Turing Trap – or automation bias – where technology is viewed as replacement for humans. Instead, as we have seen throughout history, while technology and innovation would inevitably displace some jobs, it will also often be accompanied by creation of new and better jobs.
+
+As such, the role of policy is three-fold: One, encourage technological investments to improve overall productivity and competitiveness. Two, ensure that such investments yield high-paying job opportunities. Three, invest in re-skilling and up-skilling efforts so that Malaysians can seize those opportunities.
+
+As the nature of work changes, so must our workforce. Malaysians should be provided with opportunities to continuously retool themselves throughout their career, in response to evolving demands. While the government and academia have roles to play, I also believe that industry should take greater ownership of forward- looking reskilling initiatives.
+
+An example of this is the financial industry-driven Future Skills Framework (FSF) initiative led by the Asian Institute of Chartered Bankers (AICB). Financial sector talents are future-proofed through reskilling and upskilling interventions. As an organisation, BNM has also invested deeply in upskilling our workforce. By partnering with global technology leaders, we bring advanced expertise to our staff, providing them hands-on experience with transformative tools. Our goal is to equip our people not just to meet today's challenges but to shape the future of finance and economic policies.
+
+Apart from investing in our adaptive capabilities, we must also protect those who may be vulnerable to these changes. We recognise that not everyone is equally prepared or able to keep up with the sweeping changes of technological waves. It is our duty to provide a safety net so that they do not get left too far behind. An important part of this safety net is the active labour market policies to help disadvantaged individuals re-enter the workforce on a much stronger footing. These policies are crucial to partially mitigate the inequality impacts that technological disruptions could create.
+
+The constant tension between technological progress and the nature of jobs is not new – and it is here to stay. From automotive displacing horse carriages to emails and texts displacing snail mail, we have been through variations of these disruptions before. While the scale and complexity of the AI-revolution may differ, a pragmatic and balanced approach can better ensure that technological progress serves not only as an engine for economic growth but also as a force for positive, inclusive change.Thank you.
+
+
+
+Bank Negara Malaysia
+
+11 November 2024
+
+[1]Horace Dediu; Comin and Hobijn (2004); other sources collated by Our World in Data
+
+[2]IMF (2024), Gen-AI: Artificial Intelligence and the Future of Work.
+
+[3]Lee, Keun, 'Economics of Technological Leapfrogging', in Jeong-Dong Lee, and others (eds), The Challenges of Technology and Economic Catch-up in Emerging Economies (Oxford, 2021; online edn, Oxford Academic, 22 July 2021), https://doi.org/10.1093/oso/9780192896049.003.0005, accessed 10 Nov. 2024.
+
+[4]80 percent of these jobs are semi-skilled, and 90 percent of semi-skilled jobs are held by Malaysians.
+
+[5]comprising banks, insurers and payments operators
+

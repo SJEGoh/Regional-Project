@@ -1,0 +1,77 @@
+TITLE: Governor's Opening Remarks at MyFintech Week 2025
+DATE: 05 Aug 2025
+URL: https://www.bnm.gov.my/-/myfintech25-g-spch
+--------------------------------------------------
+
+
+
+Opening Remarks by Governor Abdul Rasheed Ghaffourat MyFintech Week 2025Sasana Kijang | 5 August 2025
+
+
+
+‘Ideate, Innovate, Co-create: Shaping the Future of Finance’
+
+
+
+This year marks a significant milestone. For the first time, we are co-hosting MyFintech Week (MyFW) with a coalition of ecosystem partners: The Securities Commission Malaysia (SC), the Asian Institute of Chartered Bankers (AICB), Malaysia Digital Economy Corporation (MDEC) and the Fintech Association of Malaysia (FAOM). This collaboration is more than symbolic. It embodies the spirit of this year’s theme: ‘Ideate, Innovate, Co-Create: Shaping the future of finance’. The challenges before us require whole-of-ecosystem solutions. And the future we are building demands that policymakers, regulators, technologists, investors and innovators sit at the same table.
+
+By way of background, the idea for this expanded edition of MyFW was first conceived three years ago in a bilateral conversation between Bank Negara Malaysia and the Securities Commission. That shared vision has since flourished into a truly ecosystem-wide, regionally resonant initiative. To all our partners, thank you for your leadership and commitment. This event belongs to all of us today.
+
+Let me begin with our economic landscape. Malaysia’s economy remains on a strong footing despite global headwinds. Bank Negara Malaysia (BNM) has revised our GDP growth forecast for this year to a range of between 4% and 4.8%, reflecting heightened uncertainties on global trade. This outlook remains supported by resilient domestic demand and sustained investment in infrastructure for strategic sectors under the national development plans.
+
+Meanwhile, inflation is projected to remain moderate, with headline inflation expected to average between 1.5% and 2.3% in 2025. This revision in projection reflects the continued easing in cost and a steady demand outlook. In this environment, the impact of domestic policy measures is expected to remain contained.
+
+Turning to the ringgit, as of market closing yesterday, it has appreciated by 5.55% against the US dollar and 1.8% against our major trading partners. Our sound economic fundamentals and coordinated efforts to promote balanced and orderly currency flows will continue to support the ringgit.
+
+Structural reforms continue to underpin Malaysia’s resilience – strengthening fiscal discipline, attracting high-quality investment and expanding economic opportunities. Progress in strategic areas such as energy transition, digital infrastructure, and high-value manufacturing is laying the foundation for a more inclusive and competitive economy.
+
+These reforms are important, not just for growth but also for currency stability. This is especially vital in today’s environment, where shocks are more frequent, and volatility increasingly becoming a norm. The ringgit, like many emerging market currencies, has felt the weight of these uncertainties from time to time. Yet this year, we have seen some encouraging signs where the tailwind from reforms has, in part, led to renewed investor interest and provided support to the ringgit.
+
+This brings us to the core of this year’s MyFW. The financial sector is being reshaped by three powerful forces: digitalisation, sustainability and demographic shifts. Technologies such as generative AI and blockchain are transforming business models and redefining consumer expectations. Malaysia’s net-zero targets demand innovative financial solutions, while an ageing population calls for inclusive and forward-looking financial policies in long-term welfare, healthcare and social protection. These realities are reflected in the three tracks of this year’s programme:‘Finance for the Future’,‘Finance for Change’and‘Finance for a Resilient Ecosystem’.
+
+The first track, ‘Finance for the Future’, focuses on building a digitally enabled, forward-looking financial system. Malaysia has made strong progress in modernising our payment systems. We now rank second globally in QR payment adoption. DuitNow has become a common feature of our daily life, and regional linkages are expanding, enabling real-time, low-cost transactions across borders.
+
+We are also enhancing wholesale payment systems to support market resilience and cross-border flows. This includes exploring the future of money through Project Mawar, our wholesale central bank digital currency (CBDC) pilot, and collaborations with the BIS Innovation Hub. Digitalisation is also transforming insurance and takaful, with innovations like digital roadside assistance. Digital banks, as well as digital insurers and takaful operators that will soon be licensed, are set to bring fresh thinking, digital-native models and a sharper focus on underserved segments,  improving customer experience and catalysing broader transformation across the industry.
+
+But a future-ready system needs more than new technology and business models. It calls for secure digital identity and data sharing frameworks, robust data governance, effective cybersecurity, and a regulatory foundation that enables inclusive, responsible and trusted innovation.
+
+To this end, we are advancing several key initiatives. The Digital Asset Innovation Hub, launched collectively with the industry, enables experimentation with real-world use cases such as programmable payments and supply chain finance. These efforts complement our Regulatory Sandbox and work by the SC, which has provided a regulatory framework for digital asset investments since 2019.
+
+Digital assets are increasingly shaping financial services, offering efficiency and new delivery models. Their potential is significant and cannot be ignored. At the same time, our approach remains guided by clear principles. We are open to innovation that brings genuine value to the economy and supports productive use cases. But we also remain cautious of developments that introduce undue risks or operate outside the safeguards needed to preserve financial stability and public trust.
+
+With that in mind, I am pleased to share three forthcoming regulatory developments.
+
+Ladies and gentlemen,
+
+The second track, ‘Finance for Change’, explores how finance can be a force for good, covering financial literacy, climate action, inclusive insurance and social protection. At its heart, this track recognises that finance must not only support the economy, but also uplift communities.
+
+A central pillar of this agenda is Value-Based Intermediation (VBI). In Malaysia, VBI is gaining traction as a defining characteristic of Islamic finance. It emphasises ethical finance, social purpose and long-term impact. With principles rooted in fairness, shared responsibility, and public good, Islamic finance has much to offer in addressing issues such as climate vulnerability, intergenerational equity and financial exclusion. Today, Islamic banking accounts for over 47% of total financing, while takaful commands 26% of total net contributions, reflecting the growing mainstream relevance of Islamic finance and also VBI.
+
+Social finance is a vital component of VBI. With the right governance and integration, social finance can unlock capital for underserved communities, micro-enterprises, and essential services such as education and healthcare.
+
+We are also fostering innovation through the Climate Finance Innovation Lab, under the Joint Committee on Climate Change with the industry. This initiative brings together public, private and philanthropic players to test new financial instruments, including those based on Islamic finance, that can address environmental and socioeconomic risks in a cohesive manner.
+
+To further empower global changemakers, I am pleased to share that BNM, together with the MIFC Leadership Council and six strategic partners, has launched the MIFC Global Impact Challenge 2025. This year’s challenge focuses on empowering fintech and impact-driven startups to develop solutions that strengthen social resilience and tackle climate challenges. Submissions are open until 18 August 2025, and I warmly invite you to be part of this journey.
+
+The third and final track, ‘Finance for a Resilient Ecosystem’, focuses on strengthening our foundations, ensuring it remains strong, reliable and adaptable. Resilience is more than having capital buffers. It is about building systems that can withstand stress, institutions that can evolve with the times, and people who are equipped to lead change.
+
+With this in mind, we have curated sessions for this year’s MyFW to address the fintech funding landscape, anti-scam strategies, cyber resilience, and the development of future-ready talent equipped with the skills, adaptability and leadership needed for the future.
+
+Today, resilience must be embedded in every layer – from operational continuity and data security to technology governance and public trust. As digital adoption grows, so does the potential for scams, cyber threats and third-party risks. Our response must be coordinated and forward-looking.
+
+A recent example is the National Fraud Portal, a landmark initiative led by PayNet together with regulators, enforcement authorities and the financial industry. It enables rapid tracing of stolen funds across financial institutions and thus increases the prospect of recovery.
+
+Ladies and gentlemen,
+
+As we approach the final phase of the Financial Sector Blueprint 2022–2026, it is timely to reflect on what has been achieved and what remains to be done. The Blueprint has shaped a more inclusive, resilient and innovation-ready financial sector. But the future demands greater agility, deeper collaboration and bolder thinking.
+
+We have begun work on the next phase, a new set of priorities and strategies beyond 2026. This next iteration will ensure our financial system continues to evolve with clarity and ambition. We are working closely with the SC to align our visions, recognising that Malaysia’s financial future must be built on coherence and shared purpose.
+
+Let me leave you with three questions to guide your conversations this week:
+
+Let’s use this week to surface bold ideas and challenge each other to think differently. On behalf of BNM and our partners, thank you for joining us. I wish you a productive, engaging and inspiring MyFW 2025.
+
+
+
+Thank you.
+

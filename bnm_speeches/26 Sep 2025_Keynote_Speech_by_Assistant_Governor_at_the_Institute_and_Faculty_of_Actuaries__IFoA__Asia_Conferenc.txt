@@ -1,0 +1,87 @@
+TITLE: Keynote Speech by Assistant Governor at the Institute and Faculty of Actuaries (IFoA) Asia Conference
+DATE: 26 Sep 2025
+URL: https://www.bnm.gov.my/-/spch-agmm-ifoa
+--------------------------------------------------
+
+
+
+Keynote Speech by Assistant Governor Madelena Mohamedat the Institute and Faculty of Actuaries (IFoA)Kuala Lumpur | 25 September 2025
+
+
+
+Risk is not to be avoided. Instead, risk is to be understood, to be managed and turned into opportunity. This is the essence of what you in this room do and is also at the heart of sound business and economic leadership. In a region as dynamic as Asia, where growth and change go hand in hand, our ability to transform uncertainty and risks into resilience and opportunity will shape not just our markets but also our societies.
+
+It is therefore my honour to be addressing professionals who are not only skilled in the art of quantifying uncertainty, but also deeply committed to shaping a more resilient and sustainable future. In a world grappling with complex and compounding risks – from climate change to ageing populations to increasing geo-political risks – actuaries are no longer just behind-the-scenes analysts. You are strategists of resilience, designers of inclusive protection, and partners in nation-building.
+
+Actuaries sit at the intersection of data, decision-making and societal impact. You have the tools to quantify uncertainty, but more importantly the responsibility to turn insights into action – to help governments, businesses, and communities prepare for the future, not just react to it. Whether it is shaping sustainability-linked covers, guiding healthcare affordability, or designing retirement solutions for an ageing society, actuaries are uniquely positioned to drive change that matters. Not only for balance sheets, but for lives.
+
+Today, one of the realities that we confront is climate risk and the urgent need for transition. The recent Institute and Faculty of Actuaries (IFoA) report[1]is a wake-up call on the impact of climate change. Without immediate public and private sector action, the global economy could suffer a staggering 50% loss in GDP between 2070 and 2090. No single factor in history – not even the Covid pandemic - has ever posed such a magnitude of decline.
+
+Asia-Pacific, home to over half of the world’s population, is highly exposed to climate risks – from typhoons in the Philippines and Hong Kong, heatwaves in India, and floods in Indonesia and Malaysia. According to Munich Re, natural disasters in the Asia-Pacific region have caused losses exceeding USD1.8 trillion since 1980, a huge sum, and claimed more than 630,000 lives.[2][3]
+
+The impacts are disproportionately borne by the underserved segments within this region, such as the agricultural and coastal fishing communities that require greater financial protection for climate resilience. This necessitates us to reimagine the role of insurers and takaful operators – and specifically the actuaries.
+
+Reshaping the role of insurers in the climate transition
+
+Insurers and takaful operators (ITOs) play a pivotal role beyond risk facilitation – you are the stewards of efficient and ethical capital allocation that shape Asia’s climate-resilient future. Rooted in the principles of risk sharing and risk management, insurance and takaful operators can be proactive enablers of climate resilience and transition. Through risk-based pricing and underwriting, insurers and takaful operators can incentivise and direct attention towards climate adaptation by clients. For example, clients who opt to locate their operations in flood-resilient buildings, farmers deploying drought-resistant agriculture techniques or technologies, or sustainable forest management could be considered for more favourable yet risk-based pricing. The critical question is – how can the industry consciously and collectively make a sizeable impact on climate action? The journey begins with a solid foundation – aligning business strategies, underwriting practices and investment portfolios with regional and national climate commitments, aspirations, and roadmaps, such as the ASEAN Power Grid that aims for cleaner, more connected energy systems, or in the case of Malaysia, the National Energy Transition Roadmap (NETR) and Hydrogen Economy and Technology Roadmap (HETR). This allows for a holistic approach to climate transition.
+
+In many parts of the globe, regulators are setting expectations for financial institutions to develop credible transition plans and transition planning processes to identify, measure, and manage climate-related risks. Malaysia is no different – Bank Negara Malaysia has outlined high-level principles to assist financial institutions in beginning their transition planning journey. Through the efforts of the Joint Committee of Climate Change (JC3), we work closely with the industry in rolling out targeted clinics and are intensifying efforts in bridging pertinent data gaps through multi-stakeholder collaboration and capacity building workshops.
+
+Without a doubt, climate change disrupts traditional actuarial models. Actuaries must therefore rise to this challenge to recalibrate existing models to account for climate considerations. Specifically, this entails integrating physical, transition and liability risks into actuarial frameworks. Robust scenario analysis and climate risk stress testing are useful tools for actuaries to leverage more comprehensive data points. Assumptions should be revised around frequency, severity and correlation of risks, and adoption of longer term horizons of 5, 10 or even 20 years. This facilitates assessments of climate and nature-related risks and dependencies before they materialise. Collaboration with climate scientists can also improve data granularity and relevance.
+
+Ladies and gentlemen,
+
+Thus far, I have spoken in the language of risk. Beyond risk alignment, there is a tremendous opportunity for the industry to lead in climate solutioning and innovation – from developing parametric solutions, to designing blended-finance solutions that de-risk green technology and infrastructure
+
+Actuaries are critical in designing and implementing innovative solutions for inclusive climate action. We have seen industry players in the Philippines that piloted parametric insurance enabling quick and flexible claims payouts upon occurrence of a trigger event, such as heavy rainfall or extreme wind speed.[4]For the underserved communities, insurers in India have begun to offer microinsurance solutions for smallholder farmers whose livelihoods are at risk from growing climate uncertainty.[5]These provide swift financial relief post-disasters, accelerating recovery and rebuilding efforts.
+
+In some cases, the focus of solutions has stretched beyond mitigation to adaptation initiatives. We are seeing selected ITOs in Malaysia providing cover on the cost of resilience-building measures that limit the increase of future climate damages and potential loss of client assets. These examples show that the industry – with actuaries as enablers – are already innovating solutions to solve our most pressing issues. The challenge for actuaries is not only to scale up these localised pilots and to build greater climate resilience, but to drive the industry to provide more fit-for-purpose yet affordable solutions, especially those targeted at vulnerable segments such as the SMEs. These products may seem less attractive in the short term but provide longer term climate-related benefits for customers. I have full confidence that actuaries are able to make them a reality. I would also invite ITOs to participate in the recently established Climate Finance Innovation Lab (CFIL) under the JC3 to co-create innovative insurance and takaful solutions for critical climate and nature-related projects.
+
+Expanding the role of actuaries to intensify social impact
+
+Ladies and gentlemen,
+
+Beyond the realm of climate, it would be remiss of me to not mention the critical role actuaries have in other areas of social impact. These span areas such as healthcare, income protection and other services for an ageing population.
+
+The effect of escalating medical inflation – as witnessed more broadly in the Asia-Pacific region[6]recently – came to a head in Malaysia, necessitating the regulator to intervene with interim measures to ensure affordability and continued coverage. A longer-term strategy is currently being pursued, including a base medical and health insurance/takaful (MHIT) product to provide for affordable and more sustainable coverage for Malaysians to access essential healthcare services. While the pressure point is contributed by medical inflation, product design is key in driving a sustainable medical portfolio. For this, actuaries have a pivotal role in designing sustainable healthcare protection solutions based on long term projection of costs and benefits, demographic shifts and fair risk pooling. This may include putting in place effective levers commonly adopted to manage utilisation trends and promote more responsible usage via cost-sharing mechanisms as well as leveraging AI and gamification elements to enhance client understanding of the protection solutions and nudging them towards more positive health behaviours.[7]
+
+In supporting ageing populations, actuaries can apply their expertise in longevity risk to design longevity protection solutions such as lifetime annuities and reverse mortgages. This complements the traditional role of actuaries as advisors on pension scheme solvency and in modelling future demographic shifts.
+
+There are also vast untapped opportunities within the takaful sector in advancing inclusive risk financing. Global Islamic finance assets are projected to reach US$7.5 trillion by 2028.[8]Takaful, rooted in mutual assistance, aligns naturally with sustainability principles. Takaful provides the critical blend of financial protection, sound risk management and empowerment of communities, which are critical to a just transition. In broadening the scope and application of takaful solutions, Bank Negara Malaysia is currently working with the takaful industry in piloting a blended finance takaful protection scheme (iTEKAD Protection) to bridge protection gaps for the underserved communities. We also target to issue the final Policy Document on Broader Application of Ta`awun (mutual assistance) in Takaful by end of the year as a facilitative framework for the industry to explore new product innovation and takaful models in promoting social cohesion and equitable wealth distribution. Once again, actuaries are critical in this explorative journey, in quantifying social impact, and ensuring that new solutions remain both financially viable and inclusive. For instance, insurance companies in the region can emulate innovative takaful solutions from elsewhere, such as the Kenyan index-based livestock insurance policy that protects low-income farmers from extreme weather events.[9]
+
+Way forward
+
+Ladies and gentlemen,
+
+As actuaries, you hold a rare vantage point – one that combines technical precision with profound societal relevance. The numbers you model are not merely probabilities; they reflect people’s lives, livelihoods and futures. Having both a responsibility and an opportunity, the actuarial community not only shapes financial outcomes, but also the economic and social well-being of businesses and communities. By bringing your expertise to the forefront of pressing challenges – from healthcare resilience, retirement security to climate risk and inclusive transition – you can move beyond measurement to meaningful impact. This will affirm the vital role of actuaries as stewards of long-term security for both people and economies.
+
+Thank you.
+
+
+
+[1]‘Institute and Faculty of Actuaries (2025, January).Planetary Solvency- finding our balance with nature.https://actuaries.org.uk/planetary-solvency
+
+[2]Munich Re (2023).Extreme weather risks in Asia-Pacific, https://www.munichre.com/en/risks/unpublished/extreme-weather-apac.html?utm_.com
+
+[3]Excluding countries with higher penetration such as Japan and Australia.
+
+[4]World Bank (2021, December).The Philippines Parametric Catastrophe Risk Insurance Program Pilot: Lessons Learned.https://www.financialprotectionforum.org/publication/the-philippines-parametric-catastrophe-risk-insurance-program-pilot-lessons-learned
+
+[5]UNDP Insurance and Risk Facility (2025, May 13).Data-driven insurance is making India’s smallholder farmers more resilient. https://irff.undp.org/blog/data-driven-insurance-making-indias-smallholder-farmers-more-resilient
+
+[6]WTW (2024, December 3).Asia Pacific expects high medical inflation in 2025. https://www.wtwco.com/en-my/insights/2024/12/asia-pacific-expects-high-medical-inflation-in-2025. Medical costs in Asia-Pacific are rising faster than anywhere else in the world, with the region expected to experience the highest global medical inflation rate of 12.3% this year.
+
+[7]YuLife (2025, April 16)‘From Steps to Science: How Gamification is Transforming Health and Life Insurance.https://yulife.com/blog/how-gamification-transforms-group-health-life-insurance/
+
+[8]Standard Chartered (2025, May 19).Global Islamic Finance Assets to Surpass USD 7.5 Trillion by 2028. https://www.sc.com/en/press-release/standard-chartered-global-islamic-finance-assets-to-surpass-usd-7-5-trillion-by-2028/
+
+[9]International Cooperative and Mutual Insurance Federation (2016, November 25).Takaful Insurance of Africa’s innovative index-based insurance for livestock receives global recognition.https://www.icmif.org/news_story/takaful-insurance-of-africas-innovative-index-based-insurance-for-livestock-receives-global-recognition/
+
+
+
+
+
+
+
+
+
